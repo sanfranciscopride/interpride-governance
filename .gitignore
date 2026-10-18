@@ -1,0 +1,21 @@
+# Jekyll build artifacts
+docs/_site/
+docs/.sass-cache/
+docs/.jekyll-cache/
+docs/.jekyll-metadata
+docs/vendor/
+docs/.bundle/
+
+# OS & Editor files
+.DS_Store
+__pycache__/
+*.pyc
+
+# Local email search scratch files
+emails_audit.jsonl
+analyze_emails.py
+fetch_email_gov_docs.py
+fetch_emails.py
+full_audit.py
+audit_summary.json
+

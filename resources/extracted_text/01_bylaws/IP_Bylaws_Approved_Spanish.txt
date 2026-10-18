@@ -1,0 +1,807 @@
+                                                     INTERNATIONAL
+                                                      ASSOCIATION
+                                                  OF PRIDE ORGANIZERS
+
+
+
+
+                         INTERPRIDE
+                         ESTATUTOS
+
+
+
+
+                              EFECTIVO DICIEMBRE DE 2021
+Este documento fue traducido del inglés. En caso de conflicto entre la versión y el
+documento original, prevalecerá la versión en inglés.
+                                                                                                 I nter P ride B ylaws
+TABLA DE CONTENIDO
+  TABLA DE CONTENIDO������������������������������������������������������������������������������������������������������������������������������������������������������������� 3
+
+  ARTÍCULO I - NOMBRE��������������������������������������������������������������������������������������������������������������������������������������������������������������7
+
+  ARTÍCULO II - DEFINICIONES���������������������������������������������������������������������������������������������������������������������������������������������������7
+
+  ARTÍCULO III - OBJETIVO�������������������������������������������������������������������������������������������������������������������������������������������������������� 11
+
+  ARTÍCULO IV - MEMBRESÍA����������������������������������������������������������������������������������������������������������������������������������������������������13
+
+       SECCIÓN 1                 DEFINICIÓN DE NIVELES DE MEMBRESÍA                                                                                                             13
+
+       SECCIÓN 2                 ADMISIÓN A LA MEMBRESÍA DE PLENO DERECHO                                                                                                       13
+
+       SECCIÓN 3                 ADMISIÓN A LA MEMBRESÍA ASOCIADA                                                                                                               13
+
+       SECCIÓN 4                 ADMISIÓN A LA MEMBRESÍA AFILIADA                                                                                                               13
+
+       SECCIÓN 5                 ADMISIÓN A LA MEMBRESÍA PROVISIONAL                                                                                                            14
+
+       SECCIÓN 6                 DURACIÓN DE LA MEMBRESÍA                                                                                                                       14
+
+       SECCIÓN 7  ADHERENCIA DE LOS MIEMBROS A LAS POLÍTICAS Y EL PROPÓSITO DE LA
+       ORGANIZACIÓN 14
+
+       SECCIÓN 8                 CUOTAS DE MEMBRESÍA - ASIGNACIÓN DE EVALUACIÓN                                                                                                 14
+
+       SECCIÓN 9                 RENUNCIA EN CASOS DE EMERGENCIAS                                                                                                               14
+
+  ARTÍCULO V - LA JUNTA����������������������������������������������������������������������������������������������������������������������������������������������������������17
+
+       SECCIÓN 1                 COMPOSICIÓN                                                                                                                                    17
+
+       SECCIÓN 2                 PARIDAD DE GÉNERO                                                                                                                              17
+
+       SECCIÓN 3                 REPRESENTACIÓN ORGANIZACIONAL                                                                                                                  17
+
+       SECCIÓN 4                 REPRESENTACIÓN GEOGRÁFICA                                                                                                                      17
+
+       SECCIÓN 5                 PODERES                                                                                                                                        17
+
+       SECCIÓN 6                 DEBER DE RESPONDER                                                                                                                             17
+
+       SECCIÓN 7                 PROHIBICIÓN DE MÚLTIPLES POSICIONES EN EL TABLERO                                                                                              18
+
+       SECCIÓN 8                 REUNIONES                                                                                                                                      18
+
+       SECCIÓN 9                 VOTACIÓN                                                                                                                                       18
+
+       SECCIÓN 10                REEMBOLSO DE GASTOS                                                                                                                            18
+
+       SECCIÓN 11 ELECCIONES - NOMINACIONES PARA CARGOS PÚBLICOS                                                                                                                18
+
+                                                                                                                                                                                        3
+                                                                                                   I nter P ride B ylaws
+         SECCIÓN 12                ELECCIONES - VOTACIÓN                                                                                                                          19
+
+         SECCIÓN 13                REEMPLAZO                                                                                                                                      19
+
+         SECCIÓN 14                DURACIÓN DEL CARGO                                                                                                                             19
+
+         SECCIÓN 15                DEBERES Y RESPONSABILIDADES                                                                                                                    19
+
+         SECCIÓN 16                REUNIONES                                                                                                                                      19
+
+         SECCIÓN 17 REMOCIÓN DE DELEGADOS Y OFICIALES ELEGIDOS O DESIGNADOS; MIEMBROS
+         DEL COMITÉ Y COPRESIDENTES; MIEMBROS DE LA JUNTA, EL COMITÉ EJECUTIVO Y EL GAC;
+         CONTRATISTAS Y CONSULTORES                                                     20
+
+    ARTÍCULO VI - REGIONES������������������������������������������������������������������������������������������������������������������������������������������������������ 23
+
+         SECCIÓN 1                 ESTABLECIMIENTO Y REORGANIZACIÓN DE REGIONES                                                                                                  23
+
+         SECCIÓN 2                 ORGANIZACIÓN REGIONAL                                                                                                                         23
+
+         SECCIÓN 3  AUTORIDAD DE LA JUNTA PARA ADMINISTRAR LAS REGIONES
+         SUBREPRESENTADAS 23
+
+    ARTÍCULO VII - CONSEJO CONSULTIVO MUNDIAL������������������������������������������������������������������������������������������������������������ 25
+
+         SECCIÓN 1                 ESTRUCTURA                                                                                                                                    25
+
+         SECCIÓN 2                 CONSEJOS REGIONALES                                                                                                                           25
+
+         SECCIÓN 3                 REPRESENTANTES DEL CONSEJO ASESOR GLOBAL EN LA JUNTA                                                                                          25
+
+         SECCIÓN 4                 AUTORIDAD Y LIMITACIÓN                                                                                                                        25
+
+    ARTÍCULO VIII - CONFERENCIA MUNDIAL Y JUNTA GENERAL������������������������������������������������������������������������������������������27
+
+         SECCIÓN 1                 FRECUENCIA                                                                                                                                     27
+
+         SECCIÓN 2                 UBICACIÓN                                                                                                                                      27
+
+         SECCIÓN 3 VOTACIÓN                                                                                                                                                       27
+
+    ARTÍCULO IX - IDIOMA����������������������������������������������������������������������������������������������������������������������������������������������������������� 29
+
+         SECTION 1                 LANGUAGES                                                                                                                                     29
+
+         SECCIÓN 2                 NÚMERO                                                                                                                                        29
+
+    ARTÍCULO X - ASUNTOS FINANCIEROS��������������������������������������������������������������������������������������������������������������������������������31
+
+         SECCIÓN 1                 OBLIGACIONES                                                                                                                                   31
+
+         SECCIÓN 2                 CRÉDITO                                                                                                                                        31
+
+         SECCIÓN 3                 DESEMBOLSO DE FONDOS                                                                                                                           31
+4
+                                                                                               I nter P ride B ylaws
+     SECCIÓN 4                 PRÉSTAMOS PROHIBIDOS                                                                                                                           31
+
+ARTÍCULO XI - DEDICACIÓN DE ACTIVOS��������������������������������������������������������������������������������������������������������������������������� 33
+
+     SECCIÓN 1                 FINES PÚBLICOS / BENÉFICOS                                                                                                                    33
+
+     SECCIÓN 2                 SIN BENEFICIO PECUNIARIO                                                                                                                      33
+
+     SECCIÓN 3                 DISTRIBUCIÓN DE ACTIVOS TRAS SU DISOLUCIÓN                                                                                                    33
+
+ARTÍCULO XII - ENMIENDAS�������������������������������������������������������������������������������������������������������������������������������������������������� 35
+
+     SECCIÓN 1                 ENVÍO / AVISO                                                                                                                                 35
+
+     SECCIÓN 2                 ADOPCIÓN Y EFECTO                                                                                                                             35
+
+ARTÍCULO XIII - LEY APLICABLE Y JURISDICCIÓN������������������������������������������������������������������������������������������������������������� 35
+
+     SECCIÓN 1                 LEY QUE RIGE                                                                                                                                  35
+
+     SECCIÓN 2                 SUBORDINACIÓN                                                                                                                                 35
+
+REVISIÓN HISTÓRICA������������������������������������������������������������������������������������������������������������������������������������������������������������� 37
+
+DOCUMENTOS APLICABLES������������������������������������������������������������������������������������������������������������������������������������������������� 39
+
+
+
+
+                                                                                                                                                                                      5
+                                                                   I nter P ride B ylaws
+ARTÍCULO I - NOMBRE
+El nombre de esta organización será InterPride.
+
+
+
+
+ARTÍCULO II - DEFINICIONES
+
+     A.       Abstención            Indicaciones de que una persona está presente pero que elige no emitir su voto -
+                                    como tal, no cumple con el requisito de “presente y votante” como se define en el
+                                    Párrafo M, a continuación, ni se incluye en un total de votos.
+
+     B.       Ingreso Bruto Anual All income/revenue received by a member organization in a fiscal year (twelve-
+              (AGI)               month accounting period) prior to the deduction of any expenses.
+
+     C.       Junta General (GM) Las partes de negocios de la Conferencia Mundial, incluidas todas las sesiones
+                                 plenarias de la Membresía y las reuniones de la Junta Directiva, el Consejo Asesor
+                                 Global, los comités de la Junta y sus subcomités.
+
+     D.       Conferencia           Una reunión de los miembros de la organización, que incluye oportunidades
+              Mundial               educativas y para establecer contactos y la reunión general de los miembros.
+
+     E.       Afiliación            Una persona tiene afiliación cuando participa activamente de manera continua con
+                                    el orgullo de un miembro y esa afiliación es reconocida por el orgullo del miembro.
+
+     F.       Junta                 La Junta Directiva de InterPride, compuesta por funcionarios electos (los presidentes,
+                                    vicepresidentes, secretario y tesorero de la organización) y seis enlaces designados
+                                    por el Consejo Asesor Global.
+
+     G.       Consejo Asesor        Un organismo compuesto por representantes de las regiones globales que se
+              Global                reúne regularmente y asesora a la Junta sobre temas, necesidades, actividades y
+                                    recomendaciones de todas las regiones.
+
+     H.       Representantes        Los representantes designados para formar parte de la Junta por el Consejo Asesor
+              del Consejo Asesor    Global, de acuerdo con las reglas y regulaciones del Consejo Asesor Global.
+              Global
+
+     I.       Escrito               A menos que se especifique lo contrario, "por escrito" se referirá a las comunicaciones
+                                    recibidas en papel o por medios electrónicos (es decir, correo electrónico).
+
+     J.       LGBTI+                Lesbianas, gays, bisexuales, trans e intersexuales y otras orientaciones sexuales
+                                    diversas, identidades y expresiones de género y características sexuales.
+
+     K.       Voto Mayoritario      Una moción que requiera una mayoría de votos se aprobaría con un 51% o más
+                                    de votos a favor. Los votos de abstención ajustan la mayoría general para que se
+                                    aprueben las mociones.
+
+     L.       Oficial               Un miembro de la Junta o el Director Ejecutivo.
+
+     M.       Presente y Votando    Constituye una persona presente en persona (o electrónicamente, según se permita)
+                                    y emitiendo un voto de “sí” o “no”.
+
+                                                                                                                              7
+                                                              I nter P ride B ylaws
+    N.   Evento del Orgullo   Un desfile, marcha, mitin, festival, festival de arte, actividad cultural u otro evento /
+                              actividad, y que esté al menos parcialmente abierto al público en general, organizado
+                              para comunidades de diversas orientaciones sexuales, identidades y expresiones de
+                              género y características sexuales y que promueva la visibilidad y / o validación de la
+                              existencia de esas personas y conmemoración de los disturbios de Stonewall y / o un
+                              evento histórico / evento anual / periódico similar producido por una organización
+                              Pride, como se define en el párrafo P, a continuación.
+
+    O.   Red del Orgullo      Una organización cuya membresía consistirá principalmente en organizaciones del
+                              orgullo. Esta organización puede actuar como una Plataforma Pride en su relación
+                              con InterPride.
+
+    P.   Organización del     • Una organización * que produce Pride Events como uno de sus principales
+         Orgullo              propósitos o actividades; y
+                              • Opera a la manera de una organización no gubernamental (ONG); y
+                              • Cualquier beneficio de la organización debe beneficiar a las comunidades LGBTI +.
+                              * La organización puede estar registrada o no registrada con su autoridad local.
+
+    Q.   Plataforma del       Es una organización registrada en un país dentro de una región que sirve como
+         Orgullo              organización de membresía para organizaciones de orgullo en esa región y tiene un
+                              acuerdo de membresía conjunto formado con InterPride.
+
+    R.   Quórum               50% o más de los presentes y votantes. Para las reuniones de la junta, esto incluye a
+                              los funcionarios. Para las reuniones de la membresía, incluye a todos los miembros
+                              acreditados presentes. Para las reuniones del comité, esto incluye a todos los
+                              miembros del comité.
+
+    S.   Región               Un área geográfica, definida por una resolución debidamente aprobada de la Junta
+                              y el Consejo Asesor Global, que tiene derecho a representación en la Junta Directiva.
+
+    T.   Regional Council     A group of representatives from member organizations from the region lead
+                              by regional representatives appointed by a region’s membership to the Global
+                              Advisory Council. These appointments are conducted within the region itself, under
+                              the regional council’s own rules and regulations. The Regional Council has a duty
+                              to communicate the region’s challenges, barriers, needs, risks, opportunities, and
+                              strengths to the Global Advisory Council.
+
+    U.   SOGIESC              Orientación sexual, identidad y expresión de género y características sexuales
+
+    V.   Voto de Mayoría de   Una moción que requiera una mayoría de votos se aprobaría con un 67% o más
+         Dos Tercios          de votos a favor. Los votos de abstención ajustan la mayoría general para que se
+                              aprueben las mociones.
+
+    W.   Plenaria             Una reunión o sesión a la que se invita a asistir a todos los participantes de una
+                              reunión general. Un plenario se puede entregar en persona, en línea y / o en un
+                              formato que la junta considere necesario. Las sesiones plenarias se pueden realizar
+                              como una reunión en vivo o por un período de tiempo como una sesión asincrónica.
+                              Al menos un plenario debe celebrarse en vivo durante cada junta general.
+
+
+
+8
+                                                                   I nter P ride B ylaws
+ARTÍCULO III - OBJETIVO
+Esta Corporación está organizada exclusivamente con fines benéficos y educativos en el sentido de la Sección 501 (c) (3)
+del Código de Rentas Internas de los Estados Unidos de América y sujeto a la misma. La naturaleza del negocio que se
+llevará a cabo es promover el orgullo lésbico, gay, bisexual, transgénero e intersexual a nivel internacional a través de:
+    A. Llevar a cabo programas con un propósito educativo con la intención de ayudar a las personas lesbianas, gays,
+       bisexuales, trans e intersexuales a sentirse más cómodas con quienes son;
+    B. Educar al público en general hacia una comprensión mejor y más precisa de la homosexualidad, la bisexualidad, la
+       identidad transgénero y la identidad intersexual;
+    C. Facilitar la creación de redes y el intercambio de información relacionada con la producción y promoción de Pride
+       Events y eventos educativos relacionados;
+    D. Empoderar y apoyar a las Organizaciones del Orgullo en sus esfuerzos por producir Eventos del Orgullo;
+    E. Promover los derechos humanos en cuestiones de SOGIESC y apoyar los esfuerzos de los miembros para hacerlo;
+    F. y Celebración de Conferencias Mundiales para ayudar con los propósitos anteriores.
+
+
+
+
+                                                                                                                             11
+                                                                    I nter P ride B ylaws
+ARTÍCULO IV - MEMBRESÍA
+
+SECCIÓN 1         DEFINICIÓN DE NIVELES DE MEMBRESÍA
+
+          La organización deberá tener cuatro niveles de membresía como se define aquí:
+
+
+     A.        Membresía Pleno       Los miembros de pleno derecho de la Organización, si están en regla, tendrán acceso
+               Derecho               a todos los beneficios de membresía y tendrán plenos privilegios de voto en todos
+                                     los asuntos de su competencia.
+
+     B.        Afiliación Asociada   Los Miembros Asociados de la Organización tendrán acceso a beneficios de
+                                     membresía limitados y no tendrán privilegios de voto en ningún asunto que esté
+                                     siendo considerado por los Miembros.
+
+     C.        Membresía Afiliada    Los Miembros Afiliados de la Organización tendrán acceso a beneficios de
+                                     membresía limitados y no tendrán privilegios de voto en ningún asunto que esté
+                                     siendo considerado por los Miembros.
+
+     D.        Membresía             Los Miembros Provisionales de la Organización tendrán acceso a todos los
+               Provisional           beneficios de la membresía y no tendrán privilegios de voto en ningún asunto que
+                                     esté considerando la Membresía.
+
+
+Los beneficios de membresía disponibles para los niveles de membresía enumerados anteriormente y aquellos asuntos
+dentro del alcance de los miembros de pleno derecho sobre los que actuar se definirán en estos estatutos y otras políticas
+y procedimientos que pueden ser adoptados, de vez en cuando, por los miembros, la junta o el Consejo Asesor Global.
+
+SECCIÓN 2         ADMISIÓN A LA MEMBRESÍA DE PLENO DERECHO
+
+Cualquier Organización del Orgullo que haya producido un Evento del Orgullo dentro de un período de 15 meses antes de
+una Conferencia Mundial, al presentar una solicitud de membresía y contabilizar el pago de sus cuotas anuales de acuerdo
+con el Artículo IV, Sección 8 de estos Estatutos, será admitida como Miembro de pleno derecho de la Organización.
+
+
+SECCIÓN 3         ADMISIÓN A LA MEMBRESÍA ASOCIADA
+
+Cualquier organización del Orgullo que haya producido un Evento del Orgullo dentro de un período de 18 meses antes de
+una Conferencia Mundial pero que no cumpla con el requisito de ser una organización según lo definido por
+
+
+El Artículo II, Párrafo P, anterior, al presentar una solicitud de membresía y contabilizar el pago de sus cuotas anuales de
+acuerdo con el Artículo IV, Sección 8 de estos Estatutos, será admitido como Miembro Asociado de la Organización.
+
+
+SECCIÓN 4         ADMISIÓN A LA MEMBRESÍA AFILIADA
+
+Pride Networks, al presentar una solicitud de membresía y contabilizar el pago de sus cuotas anuales de acuerdo con el
+Artículo IV, Sección 8 de estos Estatutos, será admitido como Miembro Afiliado de la Organización.
+
+
+
+
+                                                                                                                               13
+                                                                       I nter P ride B ylaws
+     SECCIÓN 5       ADMISIÓN A LA MEMBRESÍA PROVISIONAL
+
+     Cualquier Organización Pride que no haya producido un Evento Orgullo dentro de un período de 18 meses antes de una
+     Conferencia Mundial, al presentar una solicitud de membresía y contabilizar el pago de sus cuotas anuales de acuerdo con
+     el Artículo IV, Sección 8, de estos Estatutos será admitida. como Miembro Provisional de la Organización.
+
+
+     SECCIÓN 6       DURACIÓN DE LA MEMBRESÍA
+     La membresía en todos los niveles será por un período de un año calendario (enero a diciembre), comenzará con la
+     aceptación de una solicitud de membresía y la contabilidad para el pago de las cuotas de un miembro y concluirá el 31 de
+     diciembre de un año calendario determinado.
+
+
+     SECCIÓN 7       ADHERENCIA DE LOS MIEMBROS A LAS POLÍTICAS Y EL PROPÓSITO DE LA ORGANIZACIÓN
+
+     A ninguna organización o red Pride se le negará la membresía en ningún nivel, siempre que se adhieran a las políticas y
+     propósitos de InterPride. Las Organizaciones de Orgullo que no se adhieran a dichas políticas y propósitos pueden ser
+     denegadas o eliminadas de la membresía después de una revisión y un voto de dos tercios de la Junta, que está presente y
+     votando, sobre dicha denegación o remoción. La Junta puede, a su discreción, optar por delegar esta autoridad al Consejo
+     Asesor Global, mediante la aprobación de una regla permanente a tal efecto.
+
+
+     SECCIÓN 8       CUOTAS DE MEMBRESÍA - ASIGNACIÓN DE EVALUACIÓN
+
+     La Organización cobrará las cuotas anuales de membresía de acuerdo con un método que se detallará en una resolución
+     aprobada por la Junta.
+
+
+     SECCIÓN 9       RENUNCIA EN CASOS DE EMERGENCIAS
+
+     La Junta, por mayoría de dos tercios de votos, tendrá la autoridad de renunciar a cualquier sección de este Artículo en
+     casos de emergencia; incluyendo, pero no limitado a, pandemias globales, disturbios sociales, repercusiones de desastres
+     naturales y provocados por el hombre, y avisos de viaje provocados por la inestabilidad geopolítica; y / o situaciones
+     extraordinarias fuera del control de InterPride o sus miembros.
+
+
+
+
+14
+                                                                     I nter P ride B ylaws
+ARTÍCULO V - LA JUNTA
+
+SECCIÓN 1        COMPOSICIÓN
+
+La Junta estará compuesta por los siguientes cargos *:
+    A. Tres presidentes, un hombre, una mujer y uno no binario / no conforme al género.
+    B. Seis vicepresidentes. La Junta puede cambiar las funciones de los vicepresidentes por mayoría de votos. Los roles
+       pueden incluir:
+        z    (4) Vicepresidente de Gestión de Alianzas y Alcance Global, dos de los cuales no deben ser Hombres
+             Identificados
+        z    Vicepresidente de Accesibilidad, Diversidad e Inclusión
+        z    Vicepresidente de Servicios de Membresía (puesto requerido)
+         Un mínimo de dos mujeres identificadas y un mínimo de una trans o un género no binario identificado.
+Los roles adicionales serán autoasignados por la junta
+    C. Un secretario
+    D. Un tesorero; y
+    E. Seis representantes del Consejo Asesor Global. (un máximo de 1 puede ser de cada continente)
+* Se debe cubrir un mínimo de 5 de estos puestos en todo momento.
+
+
+SECCIÓN 2        PARIDAD DE GÉNERO
+
+Al tratar de cubrir estos puestos que no son específicos de género, la Organización se esforzará por lograr el objetivo de la
+paridad de género, incluidas las identidades trans y no binarias.
+
+
+SECCIÓN 3        REPRESENTACIÓN ORGANIZACIONAL
+
+Al tratar de cubrir estos puestos, la Organización se esforzará por lograr un equilibrio en la representación de los miembros
+que se identifican a sí mismos como organizaciones grandes, medianas y pequeñas.
+
+
+SECCIÓN 4        REPRESENTACIÓN GEOGRÁFICA
+Al tratar de cubrir estos puestos, la Organización se esforzará por lograr una representación geográfica equilibrada.
+
+
+SECCIÓN 5        PODERES
+
+La Junta tendrá autoridad para tomar cualquier acción necesaria para llevar a cabo los negocios de la Organización. La
+Junta informará al Consejo Asesor Global de todas las acciones que tome en nombre de InterPride dentro de los treinta
+(30) días posteriores a la adopción de dicha acción.
+
+
+SECCIÓN 6        DEBER DE RESPONDER
+
+La Junta debe responder a todas las recomendaciones e informes recibidos del Consejo Asesor Global dentro de los
+sesenta (60) días. Las recomendaciones pueden aceptarse con implementación o anotarse sin implementación.
+                                                                                                                                17
+                                                                         I nter P ride B ylaws
+     SECCIÓN 7       PROHIBICIÓN DE MÚLTIPLES POSICIONES EN EL TABLERO
+
+     Una persona solo servirá en un puesto en la Junta en un momento dado.
+
+
+     SECCIÓN 8       REUNIONES
+
+         A. La Junta se reunirá al menos tres (3) veces durante un MM, una vez antes de la primera sesión plenaria, una vez
+            entre la primera y la última sesión plenaria, una vez después de la última sesión plenaria, así como en cualquier otro
+            momento que se considere necesario.
+         B. Las reuniones de la Junta pueden ser convocadas por los Presidentes de la Organización, por mayoría de votos del
+            Consejo Asesor Global o por quórum de la Junta.
+         C. Se pueden realizar reuniones o autorizar acciones, ya sea en persona o por medios electrónicos. Las votaciones
+            realizadas por medios electrónicos deben recibir al menos un número de votos igual al quórum para ser válidas.
+         D. Se requerirá un aviso mínimo de diez (10) días para cualquier reunión que se lleve a cabo por medios electrónicos.
+            Se requerirá un aviso con un mínimo de treinta (30) días de anticipación para cualquier reunión que se lleve a cabo
+            en persona.
+         E. Los Copresidentes pueden tomar decisiones urgentes y los Copresidentes pueden convocar reuniones con 48
+            horas de anticipación.
+
+     SECCIÓN 9       VOTACIÓN
+
+         A. Cada miembro de la Junta tendrá derecho a un solo voto.
+         B. La votación se llevará a cabo por votación nominal a menos que exista un consentimiento unánime sobre un asunto
+            determinado.
+
+     SECCIÓN 10      REEMBOLSO DE GASTOS
+
+     Los gastos razonables por deberes cumplidos por un miembro de la Junta serán reembolsables si son aprobados por
+     mayoría de votos de la Junta.
+
+
+     SECCIÓN 11 ELECCIONES - NOMINACIONES PARA CARGOS PÚBLICOS
+
+         A. Los nominados a la Junta deberán estar presentes en el GM en el que fueron nominados y también deben haber
+            estado presentes en cualquiera de los dos (2) GM's inmediatamente anteriores.
+         B. Los nominados deben estar afiliados, respaldados y activamente involucrados con una organización miembro
+            de pleno derecho. Las organizaciones miembro de pleno derecho que respaldan deben permanecer en regla al
+            completar el pago de sus cuotas dentro de los primeros sesenta (60) días del nuevo año fiscal, o el funcionario
+            debe perder su puesto.
+         C. Las personas solo pueden aceptar nominaciones para un cargo a la vez.
+         D. Los nominados deben poder servir durante todo el período del cargo..
+
+
+
+
+18
+                                                                   I nter P ride B ylaws
+SECCIÓN 12     ELECCIONES - VOTACIÓN
+   A. La elección de la Mesa estará a cargo de los miembros de la organización.
+   B. La votación se llevará a cabo mediante papeleta firmada o electrónica durante la última sesión plenaria de cualquier
+      reunión general determinada.
+   C. Si solo una persona se presenta a las elecciones para un cargo determinado, la boleta proporcionará una opción
+      para mantener el puesto vacante.
+   D. La Membresía votará en la Junta utilizando el proceso descrito en los Estatutos, Artículo VIII, Sección 3, Subsección
+      A.
+   E. Antes del comienzo de la votación, el Comité de Métodos y Estándares designará a dos (2) o más delegados para
+      supervisar el proceso de elección. Estos delegados no deben ser miembros de la Junta ni estar afiliados a las
+      organizaciones miembros a las que están afiliados los nominados.
+   F. Será elegido el nominado que reciba la mayoría de los votos emitidos por los presentes y votantes. En las elecciones
+      en las que sólo hay un candidato que se presenta a las elecciones y la selección “vacante” recibirá una mayoría,
+      el puesto se mantendrá vacante hasta que la Junta designe un reemplazo de acuerdo con la Sección 14 de este
+      Artículo.
+   G. En caso de empate, el proceso de votación se repetirá hasta que se rompa el empate.
+   H. En ningún momento podrá formar parte de la Junta más de una (1) persona de cualquier organización Miembro de
+      pleno derecho.
+SECCIÓN 13     REEMPLAZO
+   A. Se producirá una vacante en caso de renuncia, muerte, incapacidad o destitución de un Oficial.
+   B. Si se produce una vacante y surge la necesidad de un reemplazo, la Junta y el Consejo Asesor Global designarán
+      un reemplazo de una Organización Miembro de pleno derecho mediante una moción aprobada por la mayoría de
+      los presentes y votantes en una reunión conjunta de la Junta y el Consejo Asesor Global.
+
+
+SECCIÓN 14     DURACIÓN DEL CARGO
+   A. Los mandatos de los funcionarios entrantes comienzan treinta (30) días después de la Asamblea General y
+      Conferencia Mundial (GM&WC) en la que fueron elegidos. Los mandatos de los funcionarios salientes concluyen
+      30 días después de GM&WC.
+   B. La elección de los funcionarios se alternará entre dos GM en cada GM&WC.
+   C. Ningún Oficial servirá más de dos (2) términos electos consecutivos en el mismo Cargo en la Junta.
+   D. Todos los puestos de la Junta se eligen por períodos de tres (3) años.
+
+SECCIÓN 15     DEBERES Y RESPONSABILIDADES
+   A. Los deberes y responsabilidades de cada funcionario y director de la Junta se definirán en una Regla Permanente
+      de la Organización..
+
+SECCIÓN 16     REUNIONES
+
+   A. Una reunión de la Junta puede ser convocada por cuatro (4) de sus miembros.
+   B. Se pueden realizar reuniones o autorizar acciones, ya sea en persona o por medios electrónicos. Las votaciones
+      realizadas por medios electrónicos deben recibir al menos un número de votos igual al quórum para ser válidas.
+   C. Se requerirá un mínimo de setenta y dos (72) horas de anticipación para cualquier reunión realizada por medios
+      electrónicos. Se requerirá un aviso con un mínimo de treinta (30) días de anticipación para cualquier reunión que
+      se lleve a cabo en persona.
+                                                                                                                              19
+                                                                        I nter P ride B ylaws
+     SECCIÓN 17 REMOCIÓN DE DELEGADOS Y OFICIALES ELEGIDOS O DESIGNADOS; MIEMBROS DEL COMITÉ Y
+     COPRESIDENTES; MIEMBROS DE LA JUNTA, EL COMITÉ EJECUTIVO Y EL GAC; CONTRATISTAS Y CONSULTORES
+
+     Una persona deberá ser removida de su cargo cuando haya ocurrido una o más de las siguientes condiciones:
+         A. Una condena por un delito penal o un delito mayor relacionado con asuntos de robo y / o probidad financiera;
+         B. Una condena por un delito penal o un delito mayor que no se relacione con asuntos de robo y / o probidad financiera,
+            siempre que la Junta tenga la opción de anular dicha remoción o restricción por una mayoría de dos tercios de los
+            votos de los presentes y votantes dentro de treinta (30) días de la notificación a la Junta de dicha condena, basada
+            en una nota escrita distribuida a los miembros antes de la votación y hecha pública después de la votación. Se
+            eximirán las condenas penales actuales e históricas relacionadas con la penalización de la condición y las prácticas
+            LGBTIQ +, la identidad y expresión de género, el trabajo sexual, la condición de VIH o los actos de desobediencia
+            civil;
+         C. Por el establecimiento de "conflicto de intereses", como se describe en los documentos rectores de la organización;
+         D. Por el establecimiento de intenciones maliciosas hacia el bienestar de la organización y sus propósitos;
+         E. Estableciendo un voto de "censura" en la capacidad del individuo para realizar funciones esenciales para su rol.
+         F. Cualquier violación (es) a los Estatutos, Reglas Permanentes y / u otros documentos rectores de la organización.
+         G. El proceso se considerará justo y razonable cuando
+            a.   La Junta realiza una investigación en asociación con el Consejo Asesor Global; luego
+            b.   Una moción para acusar, citando Cargos y Especificaciones, es aprobada por el Comité de Gobierno; luego
+            c.   El miembro es escuchado, oralmente y por escrito, diez (10) días como máximo después de que el Comité de
+                 Gobierno apruebe su moción; luego
+            d.   La moción para llevar a cabo la acción disciplinaria recomendada es aprobada por una mayoría de dos tercios
+                 de votos de la Junta Directiva; luego
+            e.   El miembro que será expulsado es notificado por escrito 24 horas después de la votación de la Junta de la
+                 decisión final.
+
+
+
+
+20
+                                                                     I nter P ride B ylaws
+ARTÍCULO VI - REGIONES
+
+SECCIÓN 1        ESTABLECIMIENTO Y REORGANIZACIÓN DE REGIONES
+El área de participación geográfica dentro de la Organización será el mundo y el mundo se dividirá en Regiones. Las Regiones
+definidas por la Junta antes de la adopción de estos Estatutos permanecerán en vigor hasta que sean enmendadas o
+reemplazadas por el Consejo Asesor Global. La organización regional puede ser enmendada por mayoría de votos de todos
+los miembros plenos dentro de cualquier región afectada con la aprobación del Consejo Asesor Global.
+
+SECCIÓN 2        ORGANIZACIÓN REGIONAL
+Las Regiones de la Organización, a través de una acción de al menos tres (3) de sus organizaciones Miembros Plenos,
+definirán cómo se conducirán los negocios regionales y se organizará la Región. Las políticas a este efecto serán registradas
+por la Región ante el Secretario de la Organización a efectos de referencia. La Junta y el Consejo Asesor Global deberán, de
+vez en cuando, establecer pautas para los estándares mínimos que estas políticas regionales deben cumplir.
+
+
+SECCIÓN 3        AUTORIDAD DE LA JUNTA PARA ADMINISTRAR LAS REGIONES SUBREPRESENTADAS
+
+La Junta administrará cualquier Región con menos de tres (3) Organizaciones Miembros de pleno derecho, y el Vicepresidente
+de Alcance Global u otro funcionario asignado para actuar de enlace con esa Región será el agente principal de la Junta
+en el desarrollo y ejecución de las políticas que elija. implementar. Esta autoridad administrativa incluirá la facultad de
+la Junta para nombrar Directores Regionales, lo cual podrá realizarse mediante moción aprobada por la mayoría de los
+presentes y votantes en una reunión de la Junta Directiva.
+
+
+
+
+                                                                                                                                23
+                                                                   I nter P ride B ylaws
+ARTÍCULO VII - CONSEJO CONSULTIVO MUNDIAL
+
+SECCIÓN 1       ESTRUCTURA
+El Consejo Asesor Global tendrá dos representantes designados por su plataforma de orgullo regional o los miembros
+de InterPride de la región que representan. Para las Regiones con más de 50 organizaciones miembros, la región puede
+nombrar un tercer representante en el Consejo Asesor Global.
+
+
+SECCIÓN 2       CONSEJOS REGIONALES
+
+Cada región tendrá derecho a formar un consejo para coordinar actividades, divulgación y comunicaciones dentro de la
+región. Un consejo puede ser una plataforma de orgullo regional.
+
+
+SECCIÓN 3       REPRESENTANTES DEL CONSEJO ASESOR GLOBAL EN LA JUNTA
+
+El Consejo Asesor Global nombrará a seis Representantes para formar parte de la junta. Los representantes pueden servir
+en la Junta por un máximo de dos mandatos.
+
+
+SECCIÓN 4       AUTORIDAD Y LIMITACIÓN
+
+    A. El Consejo Asesor Global tiene la autoridad para recopilar información, producir informes y presentar
+       recomendaciones a la junta.
+    B. El Consejo Asesor Global tiene la autoridad para:
+       a.   Aprobar los límites regionales
+       b.   Aprobar la creación de una nueva región en asociación con la Junta
+       c.   Revisar el presupuesto anual y el plan de trabajo de la organización.
+       d.   Revisar los informes narrativos y financieros anuales de la organización.
+       e.   Recomendar a la Junta personas para puestos vacantes en la Junta para su nombramiento.
+
+
+
+
+                                                                                                                          25
+                                                                   I nter P ride B ylaws
+ARTÍCULO VIII - CONFERENCIA MUNDIAL Y JUNTA GENERAL
+
+SECCIÓN 1       FRECUENCIA
+La Organización celebrará una Conferencia Mundial al menos una vez cada dos años. La Conferencia Mundial no se
+celebrará más tarde de veinticinco (25) meses después de la clausura de la Conferencia Mundial anterior.
+
+
+SECCIÓN 2       UBICACIÓN
+
+La ubicación y la organización anfitriona de una futura Conferencia Mundial deben ser aprobadas por votación en un MM.
+Si una ubicación aprobada y / o una organización anfitriona no pueden ser anfitriones de una Conferencia Mundial, la Junta
+está facultada para tomar las acciones necesarias y adecuadas para garantizar la realización de una Conferencia Mundial,
+incluida la selección de una ubicación alternativa y / o una organización anfitriona.
+
+
+SECCIÓN 3 VOTACIÓN
+
+    A. Cada organización miembro de pleno derecho presente tendrá derecho a emitir un (1) voto sobre cualquier asunto
+       comercial ante la membresía, siempre que esté al día con la organización.
+    B. Antes o dentro de las veinticuatro (24) horas posteriores a la apertura de la primera sesión plenaria del MM, cada
+       organización Miembro Pleno deberá presentar, por escrito, el nombre de su portavoz y dos (2) portavoces suplentes.
+    C. El portavoz emitirá todos los votos y, junto con los portavoces suplentes, estará autorizado para representar a su
+       organización en asuntos de negocios ante la Membresía.
+    D. En ausencia del portavoz, un portavoz suplente puede asumir las funciones de portavoz.
+
+
+
+
+                                                                                                                             27
+                                                                       I nter P ride B ylaws
+ARTÍCULO IX - IDIOMA
+
+SECTION 1        LANGUAGES
+Los idiomas de la Organización incluirán inglés, francés, portugués y español. La Organización se esforzará por proporcionar
+servicios de interpretación y traducción para ayudar a los Miembros a participar en sus actividades.
+
+
+SECCIÓN 2        NÚMERO
+
+Cuando se utilice el plural o el singular, se incluirá el otro, cuando el contexto lo permita.
+
+
+
+
+                                                                                                                               29
+                                                                  I nter P ride B ylaws
+ARTÍCULO X - ASUNTOS FINANCIEROS
+
+SECCIÓN 1       OBLIGACIONES
+    A. Los miembros de la Junta y los agentes de la Organización no serán personalmente responsables de las obligaciones
+       financieras de la Organización de cualquier naturaleza.
+    B. Ningún bien o activo financiero de un miembro de la Junta o agente de la Organización estará sujeto al pago de las
+       obligaciones de la Organización en ninguna medida.
+
+
+SECCIÓN 2       CRÉDITO
+
+    A. Ningún miembro de la Junta o agente de la Organización firmará, respaldará o autorizará de otro modo, en nombre
+       o en nombre de la Organización, o en su capacidad oficial, ninguna obligación para con ninguna de las partes,
+       excepto bajo la dirección expresa de la Junta Directiva, evidenciada por una moción de la Junta.
+    B. Ningún miembro de la Junta o agente de la Organización podrá utilizar ningún activo financiero de la Organización
+       como garantía de ninguna obligación propia.
+
+
+
+SECCIÓN 3       DESEMBOLSO DE FONDOS
+
+Cada desembolso de fondos de la Organización será autorizado por los signatarios de las cuentas de la Organización.
+
+
+SECCIÓN 4       PRÉSTAMOS PROHIBIDOS
+
+La Organización no prestará ninguno de sus activos financieros a ningún miembro de la Junta Directiva ni a ningún agente
+de la Organización.
+
+
+
+
+                                                                                                                            31
+                                                                  I nter P ride B ylaws
+ARTÍCULO XI - DEDICACIÓN DE ACTIVOS
+
+SECCIÓN 1       FINES PÚBLICOS / BENÉFICOS
+Los beneficios y activos de la Organización se dedican irrevocablemente a fines públicos o benéficos.
+
+
+SECCIÓN 2       SIN BENEFICIO PECUNIARIO
+
+Ninguna parte de las ganancias, propiedades o activos netos de la Organización, en caso de disolución o de otro modo,
+redundará en beneficio de ningún individuo o persona privada o miembro, funcionario, empleado o director de la
+Organización.
+
+SECCIÓN 3       DISTRIBUCIÓN DE ACTIVOS TRAS SU DISOLUCIÓN
+
+En caso de liquidación o disolución, todas las propiedades, activos y obligaciones se distribuirán y pagarán a una
+organización dedicada a los mismos o similares propósitos exentas bajo el impuesto de franquicia de Texas siempre que
+dicha organización continúe siendo reconocida como una organización exenta como se especifica en Internal Código de
+Ingresos, Sección 501 (c) (3).
+
+
+
+
+                                                                                                                        33
+                                                                     I nter P ride B ylaws
+ARTÍCULO XII - ENMIENDAS
+
+SECCIÓN 1        ENVÍO / AVISO
+Las enmiendas a estos Estatutos deben estar firmadas por no menos de cinco (5) representantes de diferentes
+Organizaciones Miembros de pleno derecho. La Junta y / o el Consejo Asesor Global, por mayoría de votos de los miembros
+de la Junta o del Consejo Asesor Global presentes y votantes, también pueden presentar enmiendas a estos Estatutos a la
+Membresía.
+
+SECCIÓN 2        ADOPCIÓN Y EFECTO
+
+Las enmiendas debidamente presentadas a estos Estatutos entrarán en vigor inmediatamente después del voto de la
+mayoría afirmativa de la Membresía en el GM en el que se presentan y una mayoría de dos tercios de la Membresía dentro
+de los 60 días de la primera votación. Todas las enmiendas deben tener un plan de implementación asociado para que
+estén completas.
+
+
+
+
+ARTÍCULO XIII - LEY APLICABLE Y JURISDICCIÓN
+SECCIÓN 1        LEY QUE RIGE
+
+Estos estatutos se regirán e interpretarán de acuerdo con las leyes del estado de Texas en los Estados Unidos, cuyos
+tribunales se considerarán de jurisdicción competente.
+
+
+SECCIÓN 2        SUBORDINACIÓN
+
+Estos Estatutos se leerán en conjunto con, estarán subordinados y, en caso de existir un conflicto, darán paso a los Artículos
+de Incorporación.
+
+
+
+
+                                                                                                                                 35
+                                                             I nter P ride B ylaws
+REVISIÓN HISTÓRICA
+Fecha efectiva          Enmiendas
+Diciembre de 2020   1) Actualizar la definición de Pride Event                       • ARTÍCULO II, N
+                    2) Agregue la Sección 9, Exención en casos de Emergencias        • ARTÍCULO IV
+                    3) Aumentar el número de representantes del Consejo Asesor • ARTÍCULO VII, Sección
+                       Global en la Junta de cuatro a seis.                    3
+                                                                                     • ARTÍCULO II, F
+                                                                                     • ARTÍCULO V, E
+                    4) Actualizar acción disciplinaria y remoción de electos         • ARTÍCULO V, Sección
+                                                                                     17
+                    5) Corregir el error en Votar sobre el copresidente masculino – • ARTÍCULO V, Sección 1
+                       identificado de 2019. Eliminar Trans –identificado
+                    6) Cambiar "Tercera" Plenaria a "Final" Plenaria                 • ARTÍCULO V, Sección 8
+                                                                                     • ARTÍCULO V, Sección
+                                                                                     12
+                    7) Agregar definición de plenario                                • ARTÍCULO II, agregue
+                                                                                     W
+Octubre de 2019         * La página del historial de revisiones comenzó con la revisión de diciembre de 2020.
+                        Comuníquese con los Copresidentes de Métodos y Estándares para conocer las revisiones
+                        de los estatutos anteriores.
+
+
+
+
+                                                                                                                37
+                                           I nter P ride B ylaws
+DOCUMENTOS APLICABLES
+                              BOARD AGREEMENT
+
+                              BOARD HANDBOOK
+
+                           GAC RULES & REGULATIONS
+
+                         CONFLICT OF INTEREST POLICY
+
+                           DATA PROTECTION POLICY
+
+                        REGIONAL REPRESENTATIVE GUIDE
+
+                               STANDING RULES
+
+                              VALUE STATEMENTS
+
+
+
+
+                                                                   39
+

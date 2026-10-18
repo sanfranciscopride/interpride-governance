@@ -1,0 +1,69 @@
+                                    Statement of Financial Position
+                                                      InterPride
+                                                As of Dec 31, 2025
+
+
+
+                                                                                            Total
+
+Assets
+ Current Assets
+  Bank Accounts
+  1 BOA Checking                                                                         2,123.26
+  25 First Commonwealth Checking                                                          917.53
+  40 Infinex Mutual Funds                                                              113,331.94
+  41 Infinex Money Market                                                               10,461.78
+  60 PayPal                                                                                  0.00
+  AffiniPay Clearing                                                                      900.00
+  Total for Bank Accounts                                                             $127,734.51
+  Accounts Receivable
+  11000 Accounts Receivable                                                            115,426.16
+  Total for Accounts Receivable                                                       $115,426.16
+  Other Current Assets
+  12000 Undeposited Funds                                                                 500.00
+  Prepaid Expenses                                                                       2,016.00
+  Total for Other Current Assets                                                        $2,516.00
+ Total for Current Assets                                                             $245,676.67
+Total for Assets                                                                      $245,676.67
+Liabilities and Equity
+ Liabilities
+  Current Liabilities
+  Accounts Payable
+   Accounts Payable (A/P)                                                                1,063.37
+  Total for Accounts Payable                                                            $1,063.37
+  Other Current Liabilities
+   110 Deferred Revenue                                                                  4,562.00
+  Total for Other Current Liabilities                                                   $4,562.00
+  Total for Current Liabilities                                                         $5,625.37
+ Total for Liabilities                                                                  $5,625.37
+ Equity
+  30000 Opening Balance Equity                                                               0.00
+  31500 Net Assets With Restrictions - Podcasts                                              4.31
+  31600 Net Assets With Restrictions - Scholarship                                      23,577.69
+  31700 Net Assets With Restrictions - Solidarity                                       17,267.41
+  31800 Net Assets With Restrictions - Humanitarian                                          3.62
+
+
+                                                                                              1/2
+                            Accrual Basis Monday, April 06, 2026 10:49 PM GMT-05:00
+                                    Statement of Financial Position
+                                                     InterPride
+                                                As of Dec 31, 2025
+
+
+
+                                                                                            Total
+
+  31900 Net Assets With Restrictions - Pride Radar                                       3,500.00
+  33000 Net Income Allocation                                                          -18,661.57
+  32000 Net Assets Without Restrictions                                                194,998.27
+  Net Income                                                                            19,361.57
+ Total for Equity                                                                     $240,051.30
+Total for Liabilities and Equity                                                      $245,676.67
+
+
+
+
+                                                                                              2/2
+                            Accrual Basis Monday, April 06, 2026 10:49 PM GMT-05:00
+

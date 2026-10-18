@@ -1,0 +1,810 @@
+                                                  INTERNATIONAL
+                                                   ASSOCIATION
+                                               OF PRIDE ORGANIZERS
+
+
+
+
+            INTERPRIDE
+            RÈGLEMENTS
+
+
+
+
+                       EN VIGUEUR EN DÉCEMBRE 2021
+Ce document a été traduit de l'anglais. En cas de conflit entre la version et
+le document original, la version anglaise prévaut.
+                                                                                                    I nter P ride B ylaws
+TABLE DES MATIÈRES
+  TABLE DES MATIÈRES��������������������������������������������������������������������������������������������������������������������������������������������������������������� 3
+
+  ARTICLE I – NOM������������������������������������������������������������������������������������������������������������������������������������������������������������������������7
+
+  ARTICLE II – DEFINITIONS��������������������������������������������������������������������������������������������������������������������������������������������������������7
+
+  ARTICLE III - OBJECTIF������������������������������������������������������������������������������������������������������������������������������������������������������������ 11
+
+  ARTICLE IV – ADHÉSION���������������������������������������������������������������������������������������������������������������������������������������������������������13
+
+       SECTION 1                  NIVEAUX D'ADHÉSION DÉFINIS                                                                                                                          13
+
+       SECTION 2                  ADMISSION EN TANT QUE MEMBRE À PART ENTIÈRE                                                                                                         13
+
+       SECTION 3                  ADMISSION EN TANT QUE MEMBRE ASSOCIÉ                                                                                                                13
+
+       SECTION 4                  ADMISSION EN TANT QUE MEMBRE AFFILIÉ                                                                                                                13
+
+       SECTION 5                  ADMISSION EN QUALITÉ DE MEMBRE PROVISOIRE                                                                                                           14
+
+       SECTION 6                  DURÉE DE L'ADHÉSION                                                                                                                                 14
+
+       SECTION 7                  ADHÉSION DES MEMBRES AUX POLITIQUES ET OBJECTIFS DE L'ORGANISATION  14
+
+       SECTION 8                  COTISATIONS D'ADHÉSION – ATTRIBUTION DE L'ÉVALUATION                                                                                                14
+
+       SECTION 9                  RENONCIATION EN CAS D'URGENCE                                                                                                                       14
+
+  ARTICLE V – LE CONSEIL D'ADMINISTRATION���������������������������������������������������������������������������������������������������������������������17
+
+       SECTION 1 COMPOSITION                                                                                                                                                          17
+
+       SECTION 2                  PARITÉ HOMMES-FEMMES                                                                                                                                17
+
+       SECTION 3                  REPRÉSENTATION ORGANISATIONNELLE                                                                                                                    17
+
+       SECTION 4                  REPRÉSENTATION GÉOGRAPHIQUE                                                                                                                         17
+
+       SECTION 5                  POUVOIRS                                                                                                                                            17
+
+       SECTION 6                  OBLIGATION DE RÉPONDRE                                                                                                                              17
+
+       SECTION 7                  PLUSIEURS POSTES AU CONSEIL D'ADMINISTRATION INTERDITS                                                                                              18
+
+       SECTION 8                  RÉUNIONS                                                                                                                                            18
+
+       SECTION 9                  OTE                                                                                                                                                 18
+
+       SECTION 10                 REMBOURSEMENT DES DÉPENSES                                                                                                                          18
+
+       SECTION 11                 ÉLECTIONS – NOMINATIONS AUX POSTES                                                                                                                  18
+
+       SECTION 12                 ÉLECTIONS – VOTE                                                                                                                                    19
+                                                                                                                                                                                              3
+                                                                                                   I nter P ride B ylaws
+         SECTION 13                REMPLACEMENT                                                                                                                                   19
+
+         SECTION 14                MANDAT                                                                                                                                         19
+
+         SECTION 15                DEVOIRS ET RESPONSABILITÉS                                                                                                                     19
+
+         SECTION 16                RÉUNIONS                                                                                                                                       19
+
+         SECTION 17 LA RÉVOCATION DES DÉLÉGUÉS ET DIRIGEANTS ÉLUS OU NOMMÉS ; MEMBRES ET
+         COPRÉSIDENTS DES COMITÉS ; CONSEIL D'ADMINISTRATION, COMITÉ EXÉCUTIF ET MEMBRES DU
+         GAC ; ENTREPRENEURS ET CONSULTANTS                                             20
+
+    ARTICLE VI – RÉGIONS����������������������������������������������������������������������������������������������������������������������������������������������������������� 23
+
+         SECTION 1                 CRÉATION ET RÉORGANISATION DES RÉGIONS                                                                                                        23
+
+         SECTION 2                 ORGANISATION RÉGIONALE                                                                                                                        23
+
+         SECTION 3                 POUVOIR DU CONSEIL D'ADMINISTRATION DES RÉGIONS SOUS-REPRÉSENTÉES 2 3
+
+    ARTICLE VII – CONSEIL CONSULTATIF MONDIAL��������������������������������������������������������������������������������������������������������������� 25
+
+         SECTION 1                 STRUCTURE                                                                                                                                     25
+
+         SECTION 2                 CONSEILS RÉGIONAUX                                                                                                                            25
+
+         SECTION 3                 REPRÉSENTANTS DU CONSEIL CONSULTATIF MONDIAL AU CONSEIL                                                                                       25
+
+         SECTION 4                 AUTORITÉ ET LIMITATION                                                                                                                        25
+
+    ARTICLE VIII – CONFÉRENCE MONDIALE ET ASSEMBLÉE GÉNÉRALE������������������������������������������������������������������������������27
+
+         SECTION 1                 LA FRÉQUENCE                                                                                                                                   27
+
+         SECTION 2                 LOCALISATION                                                                                                                                   27
+
+         SECTION 3                 VOTE                                                                                                                                           27
+
+    ARTICLE IX – LANGUE������������������������������������������������������������������������������������������������������������������������������������������������������������ 29
+
+         SECTION 1                 LANGUES                                                                                                                                       29
+
+         SECTION 2                 NOMBRE                                                                                                                                        29
+
+    ARTICLE X – QUESTIONS FINANCIERES�������������������������������������������������������������������������������������������������������������������������������31
+
+         SECTION 1                 OBLIGATIONS                                                                                                                                    31
+
+         SECTION 2                 CRÉDIT                                                                                                                                         31
+
+         SECTION 3                 DÉCAISSEMENT DES FONDS                                                                                                                         31
+
+         SECTION 4                 PRÊTS INTERDITS                                                                                                                                31
+
+4
+                                                                                           I nter P ride B ylaws
+ARTICLE XI – DÉDICACE DES ACTIFS����������������������������������������������������������������������������������������������������������������������������������� 33
+
+     SECTION 1                FINS PUBLIQUES/CARITATIVES                                                                                                              33
+
+     SECTION 2                AUCUN AVANTAGE PÉCUNIAIRE                                                                                                               33
+
+     SECTION 3                RÉPARTITION DES ACTIFS LORS DE LA DISSOLUTION                                                                                           33
+
+ARTICLE XII – MODIFICATIONS��������������������������������������������������������������������������������������������������������������������������������������������� 35
+
+     SECTION 1                SOUMISSION/AVIS                                                                                                                         35
+
+     SECTION 2                ADOPTION ET EFFET                                                                                                                       35
+
+ARTICLE XIII – LOI APPLICABLE ET JURIDICTION��������������������������������������������������������������������������������������������������������������� 35
+
+     SECTION 1                DROIT APPLICABLE                                                                                                                        35
+
+     SECTION 2                SUBORDINATION                                                                                                                           35
+
+HISTORIQUE DES RÉVISIONS������������������������������������������������������������������������������������������������������������������������������������������������ 37
+
+DOCUMENTS APPLICABLES�������������������������������������������������������������������������������������������������������������������������������������������������� 39
+
+
+
+
+                                                                                                                                                                               5
+                                                                   I nter P ride B ylaws
+ARTICLE I – NOM
+Le nom de cette organisation sera InterPride.
+
+
+
+
+ARTICLE II – DEFINITIONS
+
+     A.       Abstention            Indications qu'une personne est présente mais qu'elle choisit de ne pas voter - en
+                                    tant que telle, elle ne remplit pas l'exigence de « présentation et de vote » telle que
+                                    définie au paragraphe M ci-dessous, et elle n'est pas non plus incluse dans un total
+                                    de votes.
+
+     B.       Revenu Brut Annuel Tous les revenus/revenus perçus par une organisation membre au cours d'un exercice
+              (AGI)              (période comptable de douze mois) avant déduction des dépenses.
+
+     C.       Assemblée             Les parties commerciales de la Conférence mondiale, y compris toutes les sessions
+              Générale (GM)         plénières des membres et les réunions du Conseil d'administration, du Conseil
+                                    consultatif mondial, des comités du Conseil et de leurs sous-comités.
+
+     D.       Conférence            Un rassemblement des membres de l'organisation, y compris des opportunités
+              Mondiale              d'éducation et de réseautage et l'assemblée générale des membres.
+
+     E.       Affiliation           Une personne est affiliée lorsqu'elle est activement engagée de manière continue
+                                    avec une fierté de membre et que cette affiliation est reconnue par la fierté de
+                                    membre
+
+     F.       Conseil               Le conseil d'administration d'InterPride, composé de dirigeants élus (les présidents,
+              d'Administration      les vice-présidents, le secrétaire et le trésorier de l'organisation) et six agents de
+                                    liaison nommés par le Conseil consultatif mondial.
+
+     G.       Conseil Consultatif   Un organe composé de représentants des régions du monde qui se réunit
+              Mondial               régulièrement et conseille le Conseil sur les problèmes, les besoins, les activités et
+                                    les recommandations de toutes les régions.
+
+     H.       Représentants du      Les représentants nommés pour siéger au Conseil par le Conseil consultatif mondial,
+              Conseil Consultatif   conformément aux règles et règlements du Conseil consultatif mondial.
+              Mondial
+
+     I.       En cours d'écriture   Sauf indication contraire, « par écrit » désigne les communications reçues sur papier
+                                    ou par voie électronique (c'est-à-dire par courrier électronique).
+
+     J.       LGBTI+                Lesbiennes, gays, bisexuels, trans et intersexes et autres orientations sexuelles
+                                    diverses, identités et expressions de genre et caractéristiques sexuelles
+
+     K.       Vote Majoritaire      Une motion exigeant un vote majoritaire serait adoptée avec 51 % ou plus de votes en
+                                    sa faveur. Les votes d'abstention ajustent la majorité globale des motions à adopter.
+
+     L.       Officier              Un membre du conseil d'administration ou le directeur général.
+
+
+
+                                                                                                                              7
+                                                             I nter P ride B ylaws
+    M.   Présent et vote      Constitue une personne présente en personne (ou par voie électronique, selon ce
+                              qui sera permis) et exprimant un vote « oui » ou « non ».
+
+    N.   Événement de         Un défilé, une marche, un rassemblement, un festival, un festival des arts, une activité
+         Fierté               culturelle ou tout autre événement/activité, et est au moins partiellement ouvert au
+                              grand public, organisé pour des communautés d'orientations sexuelles, d'identités
+                              et d'expressions de genre et de caractéristiques sexuelles diverses et faisant la
+                              promotion de la la visibilité et/ou la validation de l'existence de ces personnes et
+                              la commémoration des émeutes de Stonewall et/ou d'un événement historique/
+                              annuel/périodique similaire produit par une organisation Pride, telle que définie au
+                              paragraphe P ci-dessous.
+
+    O.   Réseau de Fierté     Une organisation dont les membres sont principalement des organisations de fierté.
+                              Cette organisation peut agir en tant que plate-forme Pride dans sa relation avec
+                              InterPride.
+
+    P.   Organisation de la   • Une organisation* qui produit des événements de fierté comme l'un de ses
+         Fierté               principaux objectifs ou activités ; et
+                              • Fonctionne à la manière d'une organisation non gouvernementale (ONG); et
+                              • Tous les bénéfices de l'organisation doivent bénéficier aux communautés LGBTI+.
+                              *L'organisation peut être enregistrée ou non enregistrée auprès de leur autorité
+                              locale.
+
+    Q.   Plateforme de        Est une organisation enregistrée dans un pays d'une région qui sert d'organisation
+         Fierté               d'adhésion pour les organisations de fierté dans cette région et a un accord
+                              d'adhésion conjoint formé avec InterPride.
+
+    R.   Quorum               50% ou plus des personnes présentes et votantes. Pour les réunions du conseil, cela
+                              inclut les officiers. Pour les réunions des membres, il comprend tous les membres
+                              accrédités présents. Pour les réunions du comité, cela inclut tous les membres du
+                              comité.
+
+    S.   Région               Une zone géographique, telle que définie par une résolution dûment adoptée du
+                              conseil d'administration et du conseil consultatif mondial, qui a le droit d'être
+                              représentée au conseil d'administration.
+
+    T.   Conseil régional     Un groupe de représentants des organisations membres de la région dirigé par
+                              des représentants régionaux nommés par les membres d'une région au Conseil
+                              consultatif mondial. Ces nominations sont effectuées au sein même de la région,
+                              selon le règlement intérieur du conseil régional. Le Conseil régional a le devoir de
+                              communiquer les défis, les obstacles, les besoins, les risques, les opportunités et les
+                              forces de la région au Conseil consultatif mondial.
+
+    U.   SOGIESC              Orientation sexuelle, identité et expression de genre et caractéristiques sexuelles
+
+    V.   Vote à la majorité   Une motion exigeant un vote majoritaire serait adoptée avec 67 % ou plus de votes en
+         des deux tiers       sa faveur. Les votes d'abstention ajustent la majorité globale des motions à adopter.
+
+    W.   Plenary              A meeting or session where all participants at a general meeting are invited to
+                              attend. A plenary can be delivered in-person, online, and/or in a format deemed
+                              necessary by the board. Plenaries can be held as a live meeting or for a period of
+                              time as an asynchronous session. At least one plenary must be held live during each
+8
+                              general meeting.
+                                                                    I nter P ride B ylaws
+ARTICLE III - OBJECTIF
+Cette société est organisée exclusivement à des fins caritatives et éducatives au sens de la section 501(c)(3) de l'Internal
+Revenue Code des États-Unis d'Amérique et y est soumise. La nature de l'entreprise à mener est de promouvoir la fierté
+lesbienne, gay, bisexuelle, transgenre et intersexe au niveau international à travers :
+    A. Mener des programmes à but éducatif dans le but d'aider les personnes lesbiennes, gaies, bisexuelles, trans et
+       intersexes à devenir plus à l'aise avec qui elles sont ;
+    B. Éduquer le grand public vers une compréhension meilleure et plus précise de l'homosexualité, de la bisexualité, de
+       l'identité transgenre et de l'identité intersexe ;
+    C. Faciliter le réseautage et le partage d'informations liées à la production et à la promotion d'événements Pride et
+       d'événements éducatifs connexes ;
+    D. Autonomiser et soutenir les organisations de fierté dans leurs efforts pour produire des événements de fierté ;
+    E. Faire progresser les droits de l'homme sur les questions OSIEGSB et soutenir les efforts des membres dans ce
+       sens ;
+    F. et la tenue de conférences mondiales pour aider aux objectifs ci-dessus.
+
+
+
+
+                                                                                                                               11
+                                                                    I nter P ride B ylaws
+ARTICLE IV – ADHÉSION
+
+SECTION 1        NIVEAUX D'ADHÉSION DÉFINIS
+
+L'organisation doit avoir quatre niveaux de membres tels que définis dans les présentes :
+
+
+     A.       Membre À Part          Les membres à part entière de l'Organisation doivent, s'ils sont en règle, avoir
+              Entière                accès à tous les avantages de l'adhésion et avoir le plein droit de vote sur toutes les
+                                     questions relevant de leur compétence.
+
+     B.       Membre Associé         Les membres associés de l'Organisation auront accès à des avantages limités
+                                     aux membres et n'auront pas le droit de vote sur toute question examinée par les
+                                     membres.
+
+     C.       Adhésion Affiliée      Les membres affiliés de l'Organisation auront accès à des avantages limités aux
+                                     membres et n'auront pas le droit de vote sur toute question examinée par les
+                                     membres.
+
+     D.       Adhésion Provisoire Les membres provisoires de l'Organisation auront accès à tous les avantages
+                                  de l'adhésion et n'auront pas le droit de vote sur toute question examinée par les
+                                  membres.
+
+
+Les avantages d'adhésion disponibles pour les niveaux d'adhésion énumérés ci-dessus et les questions relevant de la
+compétence des membres à part entière doivent être définis par les présents statuts et d'autres politiques et procédures
+qui peuvent être adoptées, de temps à autre, par les membres, le conseil d'administration ou le Conseil consultatif mondial.
+
+SECTION 2        ADMISSION EN TANT QUE MEMBRE À PART ENTIÈRE
+
+Toute organisation de fierté qui a produit un événement de fierté dans les 15 mois précédant une conférence mondiale,
+après avoir soumis une demande d'adhésion et avoir rendu compte du paiement de sa cotisation annuelle conformément
+à l'article IV, section 8 des présents statuts, sera admise en tant que membre à part entière de l'Organisation.
+
+
+SECTION 3        ADMISSION EN TANT QUE MEMBRE ASSOCIÉ
+
+Toute organisation de fierté qui a produit un événement de fierté au cours d'une période de 18 mois avant une conférence
+mondiale mais ne satisfait pas à l'exigence d'être une organisation telle que définie par
+
+
+Article II, paragraphe P, ci-dessus, sur présentation d'une demande d'adhésion et justificatif du paiement de leurs
+cotisations annuelles conformément à l'article IV, section 8 des présents statuts, sera admis en tant que membre associé
+de l'Organisation.
+
+SECTION 4        ADMISSION EN TANT QUE MEMBRE AFFILIÉ
+
+Pride Networks, après avoir soumis une demande d'adhésion et avoir payé sa cotisation annuelle conformément à l'article
+IV, section 8 des présents statuts, sera admis en tant que membre affilié de l'organisation.
+
+
+
+
+                                                                                                                               13
+                                                                             I nter P ride B ylaws
+     SECTION 5         ADMISSION EN QUALITÉ DE MEMBRE PROVISOIRE
+
+     Toute organisation de fierté qui n'a pas produit d'événement de fierté dans les 18 mois précédant une conférence mondiale,
+     après avoir soumis une demande d'adhésion et avoir rendu compte du paiement de sa cotisation annuelle conformément à
+     l'article IV, section 8, des présents statuts sera admise. en tant que membre provisoire de l'Organisation.
+
+
+     SECTION 6         DURÉE DE L'ADHÉSION
+     L'adhésion à tous les niveaux est d'une durée d'une année civile (janvier à décembre), commence dès l'acceptation d'une
+     demande d'adhésion et la comptabilité pour le paiement des cotisations d'un membre et se termine le 31 décembre d'une
+     année civile donnée.
+
+
+     SECTION 7         ADHÉSION DES MEMBRES AUX POLITIQUES ET OBJECTIFS DE L'ORGANISATION
+
+     Aucune organisation ou réseau Pride ne se verra refuser l'adhésion à quelque niveau que ce soit, à condition qu'ils adhèrent
+     aux politiques et aux objectifs d'InterPride. Fierté Les organisations qui ne respectent pas lesdites politiques et objectifs
+     peuvent se voir refuser ou retirer leur adhésion après examen et un vote des deux tiers du conseil d'administration, présent
+     et votant, sur un tel refus ou retrait. Le Conseil peut, à sa discrétion, choisir de déléguer cette autorité au Conseil consultatif
+     mondial, par l'adoption d'une règle permanente à cet effet.
+
+
+     SECTION 8         COTISATIONS D'ADHÉSION – ATTRIBUTION DE L'ÉVALUATION
+
+     L'Organisation percevra les cotisations annuelles selon une méthode qui sera détaillée dans une résolution approuvée par
+     le Conseil.
+
+
+     SECTION 9         RENONCIATION EN CAS D'URGENCE
+
+     Le Conseil, par un vote à la majorité des deux tiers, aura le pouvoir de déroger à toute section de cet article en cas d'urgence ;
+     y compris, mais sans s'y limiter, les pandémies mondiales, les troubles sociaux, les répercussions des catastrophes
+     naturelles et d'origine humaine et/ou les avis aux voyageurs déclenchés par l'instabilité géopolitique ; et/ou des situations
+     extraordinaires indépendantes de la volonté d'InterPride ou de ses membres.
+
+
+
+
+14
+                                                                    I nter P ride B ylaws
+ARTICLE V – LE CONSEIL D'ADMINISTRATION
+
+SECTION 1 COMPOSITION
+
+Le conseil d'administration comprend les postes suivants*:
+    A. Trois présidents, un homme, une femme et un non-binaire/genre non conforme.
+    B. Six vice-présidents. Les rôles des vice-présidents peuvent être modifiés par le conseil d'administration à la majorité
+       des voix. Les rôles peuvent inclure :
+        z   (4) Vice-présidents de la sensibilisation mondiale et de la gestion des partenariats, dont deux ne doivent pas
+            être des hommes identifiés
+        z   Vice-président, Accessibilité, diversité et inclusion
+        z   Vice-président, Services aux membres (poste requis)
+        Au moins deux femmes identifiées et au moins une personne trans ou de genre non binaire identifiée.
+Des rôles supplémentaires seront attribués par le conseil d'administration
+    C. Un secrétaire
+    D. un trésorier ; et
+    E. Six représentants du Conseil consultatif mondial. (un maximum de 1 peut provenir de chaque continent)
+*Un minimum de 5 de ces postes doit être comblé en tout temps.
+
+
+SECTION 2        PARITÉ HOMMES-FEMMES
+
+En cherchant à pourvoir ces postes qui ne sont pas sexospécifiques, l'Organisation s'efforcera d'atteindre l'objectif de la
+parité entre les sexes, y compris les identités trans et non binaires.
+
+
+SECTION 3        REPRÉSENTATION ORGANISATIONNELLE
+
+En cherchant à pourvoir ces postes, l'Organisation s'efforcera d'atteindre un équilibre de représentation des membres
+auto-identifiés comme des organisations grandes, moyennes et petites.
+
+
+SECTION 4        REPRÉSENTATION GÉOGRAPHIQUE
+En cherchant à pourvoir ces postes, l'Organisation s'efforce d'atteindre une représentation géographique équilibrée.
+
+
+SECTION 5        POUVOIRS
+
+Le Conseil a le pouvoir de prendre toutes les mesures nécessaires à la conduite des affaires de l'Organisation. Le Conseil
+d'administration informera le Conseil consultatif mondial de toutes les mesures prises au nom d'InterPride dans les trente
+(30) jours suivant la prise de ladite mesure.
+
+
+SECTION 6        OBLIGATION DE RÉPONDRE
+
+Le Conseil doit répondre à toutes les recommandations et rapports reçus du Conseil consultatif mondial dans les soixante
+(60) jours. Les recommandations peuvent être acceptées avec mise en œuvre ou notées sans mise en œuvre.
+                                                                                                                                17
+                                                                         I nter P ride B ylaws
+     SECTION 7       PLUSIEURS POSTES AU CONSEIL D'ADMINISTRATION INTERDITS
+
+     Une personne ne doit siéger qu'à un seul poste au sein du conseil d'administration à un moment donné.
+
+
+     SECTION 8       RÉUNIONS
+
+         A. Le Conseil se réunira au moins trois (3) fois au cours d'une AG, une fois avant la première session plénière, une fois
+            entre la première et la dernière session plénière, une fois après la dernière session plénière, ainsi qu'à tout autre
+            moment jugé nécessaire.
+         B. Les réunions du Conseil peuvent être convoquées par les Présidents de l'Organisation, par un vote majoritaire du
+            Conseil consultatif mondial, ou par un quorum du Conseil.
+         C. Des réunions peuvent avoir lieu ou des actions peuvent être autorisées en personne ou par voie électronique. Les
+            votes effectués par voie électronique doivent recueillir au moins un nombre de voix égal au quorum pour être
+            valables.
+         D. Un préavis d'au moins dix (10) jours est requis pour toute réunion tenue par voie électronique. Un préavis d'au
+            moins trente (30) jours est requis pour toute réunion tenue en personne.
+         E. Des décisions urgentes peuvent être prises par les coprésidents et des réunions peuvent être convoquées par les
+            coprésidents avec un préavis de 48 heures.
+
+
+     SECTION 9       OTE
+
+         A. Chaque membre du Conseil a droit à une seule voix.
+         B. Le vote a lieu par appel nominal, à moins qu'il n'existe un consentement unanime sur une question donnée.
+
+
+     SECTION 10      REMBOURSEMENT DES DÉPENSES
+
+     Les dépenses raisonnables pour les fonctions remplies par un membre du Conseil sont remboursables si elles sont
+     approuvées par un vote majoritaire du Conseil.
+
+
+     SECTION 11      ÉLECTIONS – NOMINATIONS AUX POSTES
+
+         A. Les candidats au Conseil doivent être présents à l'AG à laquelle ils sont nommés et doivent également avoir été
+            présents à l'une des deux (2) AG immédiatement précédentes.
+         B. Les candidats doivent être affiliés, approuvés par et activement impliqués dans une organisation membre à part
+            entière. Les organisations membres à part entière doivent rester en règle en effectuant le paiement de leurs
+            cotisations dans les soixante (60) premiers jours de la nouvelle année fiscale, ou le dirigeant doit renoncer à son
+            poste.
+         C. Les individus ne peuvent accepter une nomination qu'à un seul poste à la fois.
+         D. Les candidats doivent être en mesure d'accomplir la totalité du mandat.
+
+
+
+
+18
+                                                                     I nter P ride B ylaws
+SECTION 12      ÉLECTIONS – VOTE
+   A. L'élection des dirigeants se fait par les membres de l'organisation.
+   B. Le vote a lieu par scrutin signé ou électronique lors de la dernière séance plénière de toute Assemblée générale
+      donnée.
+   C. Si une seule personne se présente à l'élection pour un poste donné, le scrutin doit offrir une option pour maintenir
+      le poste vacant.
+   D. Les membres votent au Conseil en utilisant le processus décrit dans les Statuts, Article VIII, Section 3, Sous-section
+      A.
+   E. Avant le début du vote, le Comité des méthodes et des normes nommera deux (2) délégués ou plus pour superviser
+      le processus électoral. Ces délégués ne doivent pas être membres du Conseil ou affiliés aux organisations membres
+      dont les candidats sont affiliés.
+   F. Le candidat qui obtient la majorité des voix exprimées par les personnes présentes et votantes est élu. Lors
+      d'élections où il n'y a qu'un seul candidat à l'élection et où la sélection « vacante » reçoit la majorité, le poste reste
+      vacant jusqu'à ce que le Conseil nomme un remplaçant conformément à la section 14 du présent article.
+   G. En cas d'égalité, le processus de vote est répété jusqu'à ce que l'égalité soit rompue.
+   H. À aucun moment, plus d'une (1) personne d'une organisation membre à part entière donnée ne peut siéger au
+      conseil d'administration.
+
+SECTION 13      REMPLACEMENT
+
+   A. Une vacance survient en cas de démission, de décès, d'incapacité ou de révocation d'un Officier.
+   B. En cas de vacance d'un poste et de la nécessité d'un remplacement, le Conseil d'administration et le Conseil
+      consultatif mondial nommeront un remplaçant d'une Organisation membre à part entière par le biais d'une
+      motion approuvée par la majorité des personnes présentes et votantes lors d'une réunion conjointe du Conseil
+      d'administration et de la Conseil consultatif mondial.
+SECTION 14      MANDAT
+   A. Le mandat des nouveaux dirigeants commence trente (30) jours après l'assemblée générale et la conférence
+      mondiale (GM&WC) au cours de laquelle ils ont été élus. Les mandats des dirigeants sortants se terminent 30
+      jours après GM&WC.
+   B. L'élection des dirigeants sera échelonnée sur deux GM à chaque GM&WC.
+   C. Aucun dirigeant ne doit servir plus de deux (2) mandats élus consécutifs dans le même bureau au conseil.
+   D. Tous les postes du Conseil sont élus pour des mandats de trois (3) ans.
+
+SECTION 15      DEVOIRS ET RESPONSABILITÉS
+   A. Les devoirs et responsabilités de chaque responsable et directeur du Conseil seront définis dans un Règlement de
+      l'Organisation.
+
+SECTION 16      RÉUNIONS
+
+   A. Une réunion du Conseil peut être convoquée par quatre (4) de ses membres.
+   B. Des réunions peuvent avoir lieu ou des actions peuvent être autorisées en personne ou par voie électronique. Les
+      votes effectués par voie électronique doivent recueillir au moins un nombre de voix égal au quorum pour être
+      valables.
+   C. Un préavis d'au moins soixante-douze (72) heures est requis pour toute réunion tenue par voie électronique. Un
+      préavis d'au moins trente (30) jours est requis pour toute réunion tenue en personne.
+                                                                                                                                   19
+                                                                          I nter P ride B ylaws
+     SECTION 17 LA RÉVOCATION DES DÉLÉGUÉS ET DIRIGEANTS ÉLUS OU NOMMÉS ; MEMBRES ET
+     COPRÉSIDENTS DES COMITÉS ; CONSEIL D'ADMINISTRATION, COMITÉ EXÉCUTIF ET MEMBRES DU GAC ;
+     ENTREPRENEURS ET CONSULTANTS
+     Une personne est démis de ses fonctions lorsqu'une ou plusieurs des conditions suivantes se sont produites :
+         A. Une condamnation pour une infraction pénale ou un crime concernant des questions de vol et/ou de probité
+            financière ;
+         B. Une condamnation pour une infraction pénale ou un crime ne concernant pas des questions de vol et/ou de probité
+            financière, à condition que le Conseil ait la possibilité de passer outre cette suppression ou restriction par un vote
+            à la majorité des deux tiers des personnes présentes et votant dans les trente (30) jours de la notification par le
+            Conseil de ladite condamnation, sur la base d'une note écrite distribuée aux membres avant le vote et rendue
+            publique après le vote. Les condamnations pénales actuelles et historiques liées à la criminalisation du statut et
+            des pratiques LGBTIQ+, de l'identité et de l'expression de genre, du travail du sexe, du statut VIH ou des actes de
+            désobéissance civile seront exemptées ;
+         C. Par l'établissement d'un « conflit d'intérêts », tel que décrit dans les documents constitutifs de l'organisation ;
+         D. En établissant une intention malveillante envers le bien-être de l'organisation et ses objectifs ;
+         E. En établissant un vote de « pas de confiance » dans la capacité de l'individu à remplir les fonctions essentielles à
+            son rôle.
+         F. Toute violation des statuts, des règles permanentes et/ou d'autres documents régissant l'organisation.
+         G. Le processus doit être considéré comme juste et raisonnable lorsque
+            a.   Une enquête est menée par le Conseil en partenariat avec le Conseil consultatif mondial ; alors
+            b.   Une motion d'accusation, citant des charges et des spécifications, est approuvée par le comité de
+                 gouvernance ; alors
+            c.   Le membre est entendu, oralement et par écrit, dix (10) jours maximum après l'adoption de sa motion par le
+                 comité de gouvernance; alors
+            d.   La proposition d'exécuter l'action disciplinaire recommandée est approuvée par un vote à la majorité des deux
+                 tiers du conseil d'administration ; alors
+            e.   Le membre à exclure est avisé par écrit 24 heures après le vote du Conseil de la décision finale.
+
+
+
+
+20
+                                                                     I nter P ride B ylaws
+ARTICLE VI – RÉGIONS
+
+SECTION 1        CRÉATION ET RÉORGANISATION DES RÉGIONS
+La zone de participation géographique au sein de l'Organisation sera le monde et le monde sera divisé en Régions. Les
+régions définies par le Conseil avant l'adoption de ces statuts resteront en vigueur jusqu'à ce qu'elles soient modifiées ou
+remplacées par le Conseil consultatif mondial. L'organisation régionale peut être modifiée par un vote majoritaire de tous
+les membres à part entière dans toutes les régions concernées avec l'approbation du Conseil consultatif mondial.
+
+SECTION 2        ORGANISATION RÉGIONALE
+Les Régions de l'Organisation, par l'action d'au moins trois (3) de leurs Organisations Membres à part entière, définiront
+la conduite des affaires régionales et l'organisation de la Région. Les politiques à cet effet sont enregistrées par la Région
+auprès du Secrétaire de l'Organisation à des fins de référence. Le Conseil d'administration et le Conseil consultatif mondial
+doivent, de temps à autre, établir des lignes directrices pour les normes minimales auxquelles ces politiques régionales
+doivent adhérer.
+
+SECTION 3        POUVOIR DU CONSEIL D'ADMINISTRATION DES RÉGIONS SOUS-REPRÉSENTÉES
+
+Le Conseil d'administration administrera toute région comptant moins de trois (3) organisations membres à part entière,
+le vice-président de Global Outreach ou un autre responsable étant chargé d'assurer la liaison avec cette région en tant
+qu'agent principal du Conseil dans l'élaboration et l'exécution des politiques qu'il peut choisir de mettre en place. Cette
+autorité administrative comprendra le pouvoir pour le conseil de nommer des directeurs régionaux, ce qui peut être
+accompli par une motion approuvée par la majorité des personnes présentes et votantes lors d'une réunion du conseil
+d'administration.
+
+
+
+
+                                                                                                                                 23
+                                                                    I nter P ride B ylaws
+ARTICLE VII – CONSEIL CONSULTATIF MONDIAL
+
+SECTION 1        STRUCTURE
+Le Conseil consultatif mondial aura deux représentants nommés par leur plateforme régionale de fierté ou les membres
+InterPride de la région qu'ils représentent. Pour les régions comptant plus de 50 organisations membres, la région peut
+nommer un troisième représentant au Conseil consultatif mondial.
+
+
+SECTION 2        CONSEILS RÉGIONAUX
+
+Each region will have the right to form a council to coordinate activities, outreach, and communications within the region.
+A council can be a regional pride platform.
+
+
+SECTION 3        REPRÉSENTANTS DU CONSEIL CONSULTATIF MONDIAL AU CONSEIL
+
+Le Conseil consultatif mondial nommera six représentants pour siéger au conseil d'administration. Les représentants
+peuvent siéger au Conseil pour un maximum de deux mandats
+
+
+SECTION 4        AUTORITÉ ET LIMITATION
+
+    A. Le Conseil consultatif mondial a le pouvoir de recueillir des informations, de produire des rapports et de présenter
+       des recommandations au conseil d'administration.
+    B. Le Conseil consultatif mondial a le pouvoir de :
+        a.   Approuver les limites régionales
+        b.   Approuver la création d'une nouvelle région en partenariat avec le Conseil
+        c.   Examiner le budget annuel et le plan de travail de l'organisation
+        d.   Examiner les rapports narratifs et financiers annuels de l'organisation
+        e.   Recommander au Conseil des personnes pour les postes vacants au Conseil en vue de leur nomination
+
+
+
+
+                                                                                                                              25
+                                                                   I nter P ride B ylaws
+ARTICLE VIII – CONFÉRENCE MONDIALE ET ASSEMBLÉE GÉNÉRALE
+
+SECTION 1       LA FRÉQUENCE
+L'Organisation tiendra une Conférence mondiale au moins une fois tous les deux ans. La Conférence mondiale ne se tiendra
+pas plus de vingt-cinq (25) mois après l'ajournement de la Conférence mondiale précédente.
+
+
+SECTION 2       LOCALISATION
+
+Le lieu et l'organisation hôte d'une future Conférence mondiale doivent être approuvés par vote lors d'une AG. Si un lieu
+approuvé et/ou une organisation hôte n'est pas en mesure d'accueillir une Conférence mondiale, le Conseil d'administration
+est habilité à prendre les mesures nécessaires et appropriées pour assurer la conduite d'une Conférence mondiale, y
+compris la sélection d'un autre lieu et/ou d'une organisation hôte.
+
+
+SECTION 3       VOTE
+
+    A. Chaque organisation membre à part entière présente aura le droit d'exprimer un (1) vote sur toute question
+       concernant l'adhésion, à condition qu'elle soit en règle avec l'organisation.
+    B. Avant ou dans les vingt-quatre (24) heures suivant l'ouverture de la première session plénière de l'AG, chaque
+       organisation membre à part entière doit soumettre, par écrit, le nom de son porte-parole et de deux (2) porte-
+       parole suppléants.
+    C. Le porte-parole émettra tous les votes et sera, avec les porte-parole suppléants, autorisé à représenter leur
+       organisation dans les affaires devant les membres.
+    D. En l'absence du porte-parole, un porte-parole suppléant peut assumer les fonctions de porte-parole.
+
+
+
+
+                                                                                                                             27
+                                                                          I nter P ride B ylaws
+ARTICLE IX – LANGUE
+
+SECTION 1         LANGUES
+Les langues de l'Organisation comprennent l'anglais, le français, le portugais et l'espagnol. L'Organisation s'efforce de
+fournir des services d'interprétation et de traduction pour aider les Membres à participer à ses activités.
+
+
+SECTION 2         NOMBRE
+
+Lorsque le pluriel ou le singulier est utilisé, il doit, lorsque le contexte le permet, inclure l'autre.
+
+
+
+
+                                                                                                                            29
+                                                                    I nter P ride B ylaws
+ARTICLE X – QUESTIONS FINANCIERES
+
+SECTION 1       OBLIGATIONS
+    A. Les membres du Conseil et les agents de l'Organisation ne seront pas personnellement responsables des
+       obligations financières de l'Organisation de quelque nature que ce soit.
+    B. Aucun bien ou actif financier d'un membre du Conseil ou d'un agent de l'Organisation ne sera soumis au paiement
+       des obligations de l'Organisation dans quelque mesure que ce soit.
+
+
+SECTION 2       CRÉDIT
+
+    A. Aucun membre du Conseil ou agent de l'Organisation ne doit signer, approuver ou autoriser autrement, au nom ou
+       pour le compte de l'Organisation, ou en sa qualité officielle, aucune obligation envers une ou plusieurs parties, sauf
+       sur instruction expresse de le conseil d'administration, matérialisé par une motion du conseil.
+    B. Aucun actif financier de l'Organisation ne doit être utilisé par un membre du Conseil d'administration ou un agent
+       de l'Organisation comme garantie pour une quelconque obligation qui lui est propre.
+
+
+
+SECTION 3       DÉCAISSEMENT DES FONDS
+
+Chaque décaissement de fonds de l'Organisation est autorisé par les signataires des comptes de l'Organisation.
+
+
+SECTION 4       PRÊTS INTERDITS
+
+L'Organisation ne prêtera aucun de ses actifs financiers à un membre du Conseil d'administration ou à un agent de
+l'Organisation.
+
+
+
+
+                                                                                                                                31
+                                                                       I nter P ride B ylaws
+ARTICLE XI – DÉDICACE DES ACTIFS
+
+SECTION 1        FINS PUBLIQUES/CARITATIVES
+Les bénéfices et les actifs de l'Organisation sont irrévocablement consacrés à des fins publiques ou caritatives.
+
+
+SECTION 2        AUCUN AVANTAGE PÉCUNIAIRE
+
+Aucune partie des gains nets, des biens ou des actifs de l'Organisation, en cas de dissolution ou autrement, ne sera au
+profit d'un individu ou d'une personne privée ou d'un membre, dirigeant, employé ou directeur de l'Organisation.
+
+
+SECTION 3        RÉPARTITION DES ACTIFS LORS DE LA DISSOLUTION
+
+Lors de la liquidation ou de la dissolution, tous les biens, actifs et obligations seront distribués et versés à une organisation
+dédiée aux mêmes fins ou à des fins similaires, exonérées en vertu de la taxe de franchise du Texas, à condition que cette
+organisation continue d'être reconnue comme une organisation exonérée comme spécifié dans l'article Code des impôts,
+article 501(c)(3).
+
+
+
+
+                                                                                                                                    33
+                                                                   I nter P ride B ylaws
+ARTICLE XII – MODIFICATIONS
+
+SECTION 1       SOUMISSION/AVIS
+Les amendements à ces statuts doivent être signés par au moins cinq (5) représentants de différentes organisations
+membres à part entière. Le Conseil et/ou le Conseil consultatif mondial, sur un vote majoritaire des membres du Conseil ou
+du Conseil consultatif mondial présents et votants, peuvent également présenter des amendements aux présents Statuts
+aux Membres.
+
+SECTION 2       ADOPTION ET EFFET
+
+Les amendements correctement présentés à ces statuts prendront effet immédiatement après le vote à la majorité
+affirmative des membres lors de l'AG à laquelle ils sont présentés et un vote à la majorité des deux tiers des membres dans
+les 60 jours suivant le premier vote. Tous les amendements doivent être accompagnés d'un plan de mise en œuvre pour
+être complet.
+
+
+
+
+ARTICLE XIII – LOI APPLICABLE ET JURIDICTION
+SECTION 1       DROIT APPLICABLE
+
+Ces règlements seront régis et interprétés conformément aux lois de l'État du Texas aux États-Unis dont les tribunaux
+seront réputés être ceux de la juridiction compétente.
+
+
+SECTION 2       SUBORDINATION
+
+Ces statuts doivent être lus conjointement avec, doivent être subordonnés et, en cas de conflit, céder la place aux statuts
+constitutifs.
+
+
+
+
+                                                                                                                              35
+                                                            I nter P ride B ylaws
+HISTORIQUE DES RÉVISIONS
+Date Effective       Modifications
+Décembre 2020    1) Mettre à jour la définition de l'événement de fierté             •ARTICLE II, N
+                 2) Ajouter la section 9, Renonciation en cas d'urgence              •ARTICLE IV
+                 3) Augmenter le nombre de représentants du Conseil consultatif •ARTICLE VII, Section 3
+                    mondial au Conseil de quatre à six
+                                                                                •ARTICLE II, F
+                                                                                     •ARTICLE V, E
+                 4) Mettre à jour l'action disciplinaire et la révocation des élus   •ARTICLE V, Section 17
+                 5) Corriger l'erreur dans Vote on Male –Identified Co– President à •ARTICLE V, Section 1
+                    partir de 2019. Supprimer Trans–identified
+                 6) Remplacez la « troisième » plénière par la « finale »            •ARTICLE V, Section 8
+                                                                                     •ARTICLE V, Section 12
+                 7) Ajouter la définition de Plénière                                • ARTICLE II, Ajouter W
+Octobre 2019         *La page Historique des révisions a commencé avec la révision du 4 décembre 2020.
+                     Communiquez avec les coprésidents des méthodes et des normes pour les révisions
+                     antérieures des règlements.
+
+
+
+
+                                                                                                               37
+                                           I nter P ride B ylaws
+DOCUMENTS APPLICABLES
+                              BOARD AGREEMENT
+
+                              BOARD HANDBOOK
+
+                           GAC RULES & REGULATIONS
+
+                         CONFLICT OF INTEREST POLICY
+
+                           DATA PROTECTION POLICY
+
+                        REGIONAL REPRESENTATIVE GUIDE
+
+                               STANDING RULES
+
+                              VALUE STATEMENTS
+
+
+
+
+                                                                   39
+
