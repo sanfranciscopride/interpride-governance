@@ -46,7 +46,7 @@ A complaint was received concerning a conference workshop session where the pres
 ## 3. Operational Infrastructure in Place: Wordly.ai
 
 For the 2026 GM&WC in Phuket, InterPride specifically contracted and launched real-time, bidirectional interpretation through **Wordly.ai** across plenary and breakout tracks:
-* Documented in: [`Wordly.Ai Access Links for Friday`](file:///Users/chris/Developer/interpride/governance/wordly_links.txt)
+* Documented in: [`Wordly.Ai Access Links for Friday`](file:///Users/chris/Developer/interpride/governance/gmwc/2026/reference/wordly_links.txt)
 * Covers all breakout rooms, caucuses, and plenary halls with mobile-accessible QR codes and direct links.
 * Any attendee can listen in English (or read real-time captions) via their own mobile device or laptop in any room, regardless of the spoken language of the speaker.
 
@@ -57,7 +57,7 @@ For the 2026 GM&WC in Phuket, InterPride specifically contracted and launched re
 1. **Reconciliation & Outreach to the Affected Delegate:**
    * An Ombudsperson or Conference Co-Chair should connect directly with the delegate who left the session.
    * Apologize that they experienced friction or confusion regarding translation access.
-   * Verify that they have the active **Wordly.ai** links ([`wordly_links.txt`](file:///Users/chris/Developer/interpride/governance/wordly_links.txt)) and assist them in setting up live audio translation / text captions on their phone.
+   * Verify that they have the active **Wordly.ai** links ([`wordly_links.txt`](file:///Users/chris/Developer/interpride/governance/gmwc/2026/reference/wordly_links.txt)) and assist them in setting up live audio translation / text captions on their phone.
 
 2. **Facilitator Protocol for All Breakout Rooms & Caucuses:**
    * At the beginning of each session, facilitators must verbally announce and display:

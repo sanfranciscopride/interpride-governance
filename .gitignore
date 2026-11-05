@@ -20,3 +20,12 @@ fetch_emails.py
 full_audit.py
 audit_summary.json
 
+# LaTeX build artifacts & rasterized page previews
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+page-*.png
+
+

@@ -19,7 +19,7 @@ The Conference Leadership Team and the Governance Committee **officially and cat
 
 Both candidate cities (**Bangkok Pride** and **Pride Barcelona**):
 1. Have been subjected to identical vetting standards, timelines, and technical application evaluations by the independent WorldPride Committee pursuant to [SR 06.01](file:///Users/chris/Developer/interpride/governance/docs/standing-rules/sr-06-01.md).
-2. Are allocated **exactly identical presentation time, Q&A slots, and stage resources** during [Plenary 2](file:///Users/chris/Developer/interpride/governance/plenary2_agenda.txt) (strictly 20 minutes of presentation + 10 minutes of Q&A each).
+2. Are allocated **exactly identical presentation time, Q&A slots, and stage resources** during [Plenary 2](file:///Users/chris/Developer/interpride/governance/gmwc/2026/plenary/plenary2_agenda.txt) (strictly 20 minutes of presentation + 10 minutes of Q&A each).
 3. Operate under strict **Conflict of Interest & Recusal firewalls** ([SR 08.10](file:///Users/chris/Developer/interpride/governance/docs/standing-rules/sr-08-10.md)). No individual affiliated with either bid has any role in administering, tallying, or overseeing the member vote.
 4. **Active Operational Firewall Enacted:** Conference Committee leadership proactively directed conflicted conference committee members affiliated with bidding cities (including Andoni Ibáñez and Ann) to completely step aside from conference operations, backstage access, and technical controls yesterday and today, ensuring zero access to conference modifications or unfair advantages.
 5. The final selection of the WorldPride title is decided **exclusively by secret electronic ballot of the general membership**, completely insulated from conference organizers or board leadership.
@@ -35,7 +35,7 @@ Both candidate cities (**Bangkok Pride** and **Pride Barcelona**):
   > *C. The applicant organization is responsible for coordinating any technical needs they might have for this presentation with the GM&WC’s Host Committee.*  
   > *D. Presentations shall be given in English. Simultaneous translation shall be made available by the GM&WC host."*
 * **Application to Plenary 2 Agenda:**  
-  As codified in the adopted [Plenary 2 Agenda](file:///Users/chris/Developer/interpride/governance/plenary2_agenda.txt), Items 7 and 8 provide mathematically identical time allocations:
+  As codified in the adopted [Plenary 2 Agenda](file:///Users/chris/Developer/interpride/governance/gmwc/2026/plenary/plenary2_agenda.txt), Items 7 and 8 provide mathematically identical time allocations:
   * **Bangkok Pride:** 20 minutes presentation + 10 minutes Q&A (Total: 30 minutes)
   * **Pride Barcelona:** 20 minutes presentation + 10 minutes Q&A (Total: 30 minutes)
   * Both presentations are facilitated independently by WorldPride Committee Co-Chairs (Gert Claassen-Smit and Steve Taylor), who are not affiliated with either candidate city.
@@ -63,7 +63,7 @@ Both candidate cities (**Bangkok Pride** and **Pride Barcelona**):
 
 ## 3. Recommended Script for Plenary 2 / Floor Announcement
 
-To preempt floor concerns and reassure all voting delegates prior to the presentations, the Presiding Officer or WorldPride Committee Co-Chairs should read the following statement at the start of Item 6 on the [Plenary 2 Agenda](file:///Users/chris/Developer/interpride/governance/plenary2_agenda.txt):
+To preempt floor concerns and reassure all voting delegates prior to the presentations, the Presiding Officer or WorldPride Committee Co-Chairs should read the following statement at the start of Item 6 on the [Plenary 2 Agenda](file:///Users/chris/Developer/interpride/governance/gmwc/2026/plenary/plenary2_agenda.txt):
 
 > *"Before we begin the 2030 WorldPride bid presentations, conference leadership wishes to place a clear confirmation on the record regarding procedural fairness. Questions were raised regarding potential conflicts, given that one bidding organization is affiliated with the host nation and delegates from the other serve in conference roles.*  
 >  

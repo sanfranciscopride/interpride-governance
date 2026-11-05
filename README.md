@@ -13,7 +13,19 @@ Welcome to the **InterPride Governance Committee Repository**. This repository h
    - Complete standalone longitudinal analysis across all `2022–2026` versions of the Bylaws, Standing Rules, Resolutions, GAC Rules, Policies, and Agreements, plus the 11-point Governance Audit.
 
 3. **[`GOVERNANCE_DOCS_INDEX.md`](GOVERNANCE_DOCS_INDEX.md) & [`resources/`](resources/):**
-   - Complete local archive of **182 governing documents & financial filings** (**140 PDFs** from `interpride.org/resources/` across `01_bylaws/` through `07_strategy_reports_and_990s/` + **42 updated 2025–2026 attachments** in `resources/00_2025_2026_email_versions/`), along with full plaintext extractions in `resources/extracted_text/`.
+   - Complete local archive of **184 governing documents & financial filings** (**140 PDFs** from `interpride.org/resources/` across `01_bylaws/` through `07_strategy_reports_and_990s/` + **44 updated 2025–2026 attachments** in `resources/00_2025_2026_email_versions/`), along with full plaintext extractions in `resources/extracted_text/`.
+
+4. **[`responses/` — Official Governance Advisory Memoranda](responses/README.md):**
+   - Numbered official determinations, procedural rulings, and bylaw amendment proposals issued by the Governance Committee Co-Chairs (`RESP-2026-001` through `RESP-2026-006`).
+
+5. **[`reports/` — Governance & Compliance Reports](reports/2026-board-and-committee-attendance-report.md):**
+   - Data-backed compliance audits and datasets, including the [2026 Board & Committee Chair Attendance Report](reports/2026-board-and-committee-attendance-report.md) and [`attendance_2026.csv`](reports/attendance_2026.csv).
+
+6. **[`gmwc/2026/` — 2026 General Meeting & World Conference (Phuket) Materials](gmwc/2026/ombudspersons_directory.md):**
+   - Official Conference Ombudspersons Directory ([Markdown](gmwc/2026/ombudspersons_directory.md), [LaTeX](gmwc/2026/ombudspersons_directory.tex), and [PDF](gmwc/2026/ombudspersons_directory.pdf)), [plenary decks & agendas](gmwc/2026/plenary/), and [conference reference policies & facilitation guides](gmwc/2026/reference/).
+
+7. **[`scripts/` — Governance Archive & Extraction Utilities](scripts/):**
+   - Python utilities for downloading canonical governance resources and analyzing recent records.
 
 ---
 

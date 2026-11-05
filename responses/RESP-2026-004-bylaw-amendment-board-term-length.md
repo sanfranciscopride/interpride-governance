@@ -2,7 +2,7 @@
 
 **Document Type:** Formal Bylaw Amendment Proposal  
 **Subject:** Board of Directors — Term of Office Length (Transition from Three to Four Years)  
-**Target Governing Provision:** [InterPride Bylaws, Article V, Section 15(D)](file:///Users/chris/Developer/interpride/governance/bylaws.txt#L560)  
+**Target Governing Provision:** [InterPride Bylaws, Article V, Section 15(D)](file:///Users/chris/Developer/interpride/governance/docs/bylaws/article-05.md)  
 **Proposed By:** The Board of Directors of InterPride  
 **Lead Sponsor:** JayJay Potter-Peachey, Vice President of Member Services  
 **Supporting Documentation:** Letter of Support from External Sponsor (Pride 365)  
@@ -26,7 +26,7 @@
 
 **WHEREAS**, extending the length of service for full Board members from three (3) years to four (4) years directly addresses continuity gaps, enhances strategic follow-through on multi-year initiatives (such as WorldPride and global grant allocations), and bolsters external sponsorship retention; and
 
-**WHEREAS**, [Article XII, Section 1 of the InterPride Bylaws](file:///Users/chris/Developer/interpride/governance/bylaws.txt#L780) explicitly authorizes the Board of Directors, upon a majority vote of those members present and voting, to propose amendments to the Bylaws directly to the Membership;
+**WHEREAS**, [Article XII, Section 1 of the InterPride Bylaws](file:///Users/chris/Developer/interpride/governance/docs/bylaws/article-12.md) explicitly authorizes the Board of Directors, upon a majority vote of those members present and voting, to propose amendments to the Bylaws directly to the Membership;
 
 ---
 
@@ -46,7 +46,7 @@
 
 ## 4. Implementation Plan & Effective Date
 
-Pursuant to [Article XII, Section 2 of the InterPride Bylaws](file:///Users/chris/Developer/interpride/governance/bylaws.txt#L790), all proposed Bylaw amendments must include an associated Implementation Plan:
+Pursuant to [Article XII, Section 2 of the InterPride Bylaws](file:///Users/chris/Developer/interpride/governance/docs/bylaws/article-12.md), all proposed Bylaw amendments must include an associated Implementation Plan:
 
 1. **Effective Date:**
    * This amendment shall take effect beginning with the Board of Directors elections conducted at the **2027 General Meeting & World Conference (GM&WC)**.
