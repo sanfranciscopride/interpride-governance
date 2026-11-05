@@ -1,0 +1,157 @@
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[margin=1.8cm,top=2cm,bottom=2cm]{geometry}
+\usepackage{xcolor}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{fontspec}
+
+% Set system typography
+\setmainfont{Helvetica Neue}[
+  BoldFont = {Helvetica Neue Bold},
+  ItalicFont = {Helvetica Neue Italic},
+  BoldItalicFont = {Helvetica Neue Bold Italic},
+  Fallbacks = {Arial}
+]
+
+% Color scheme
+\definecolor{primary}{HTML}{1A365D}    % Deep Executive Navy
+\definecolor{secondary}{HTML}{2B6CB0}  % InterPride Blue Accent
+\definecolor{darkgray}{HTML}{2D3748}   % Charcoal Body Text
+\definecolor{lightgray}{HTML}{F7FAFC}  % Soft Light Box Tint
+\definecolor{bordergray}{HTML}{E2E8F0} % Divider Gray
+\definecolor{muted}{HTML}{718096}      % Subtitle / Meta Gray
+
+\color{darkgray}
+
+% Hyperref setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=secondary,
+    urlcolor=secondary,
+    pdftitle={InterPride GM and WC 2026 - Ombudspersons Directory},
+    pdfauthor={Governance Committee - InterPride}
+}
+
+% Header and Footer setup
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\fancyhead[L]{\footnotesize\color{muted}\textbf{InterPride GM\&WC 2026} $\cdot$ Phuket, Thailand}
+\fancyhead[R]{\footnotesize\color{muted}Conference Ombudspersons Directory}
+\fancyfoot[L]{\scriptsize\color{muted}InterPride Governance Committee $\cdot$ Standing Rule SR 04.04}
+\fancyfoot[R]{\scriptsize\color{muted}Page \thepage\ of 2}
+
+% Custom command for ombudsperson profiles
+\newcommand{\ombudsperson}[6]{
+    \noindent
+    \begin{minipage}{\linewidth}
+        \vspace{2mm}
+        {\Large\bfseries\color{primary} #1}\\[1mm]
+        {\normalsize\bfseries\color{secondary} #2} \hfill {\footnotesize\textbf{Affiliation:} #3}\\[1.5mm]
+        \begin{tabularx}{\linewidth}{@{}lX@{}}
+            \textbf{\footnotesize Email:} & \href{mailto:#4}{\small\texttt{#4}} \\
+            \textbf{\footnotesize Phone / WhatsApp:} & \small\texttt{#5} \\
+        \end{tabularx}
+        \vspace{1.5mm}
+        
+        \noindent\small #6
+        \vspace{3mm}
+        \noindent{\color{bordergray}\hrule height 0.6pt}
+    \end{minipage}
+}
+
+\begin{document}
+
+% Title / Banner Section
+\begin{center}
+    {\footnotesize\bfseries\color{muted} INTERPRIDE $\cdot$ EMPOWERING PRIDE ORGANIZATIONS WORLDWIDE}\\[1.5mm]
+    {\LARGE\bfseries\color{primary} 2026 General Meeting \& World Conference}\\[1mm]
+    {\normalsize\color{secondary}\textbf{Phuket, Thailand $\cdot$ 28 October -- 1 November 2026}}\\[2.5mm]
+    {\huge\bfseries\color{primary} Conference Ombudspersons Directory}\\[1.5mm]
+    {\footnotesize\color{muted} Official Appointment \& Neutral Support Guide $\cdot$ Governed under Standing Rule SR 04.04}
+\end{center}
+
+\vspace{1.5mm}
+
+% Charter & Mandate Box
+\noindent
+\colorbox{lightgray}{%
+\parbox{\dimexpr\linewidth-2\fboxsep\relax}{%
+    \vspace{1.5mm}
+    \noindent{\normalsize\bfseries\color{primary} Mandate of the Conference Ombudspersons (SR 04.04)}\\[1mm]
+    \footnotesize
+    In accordance with \textbf{InterPride Standing Rules (SR 04.04)}, the Ombudspersons are designated neutrals appointed by the Governance Committee to provide independent, confidential, and informal conflict resolution, problem-solving, and support services to all conference delegates, presenters, volunteers, and attendees.
+    \begin{itemize}
+        \item \textbf{Independent \& Impartial:} Ombudspersons do not represent any side in a dispute, nor are they active Board members or Host Committee leaders.
+        \item \textbf{Confidentiality Guaranteed:} Inquiries and discussions remain privileged and safe. Personal details are never disclosed without affirmative consent.
+        \item \textbf{Areas of Support:} Investigating participant complaints, accessibility barriers, safety concerns, conduct or interpersonal friction, misgendering, discrimination, and event accessibility.
+    \end{itemize}
+    \vspace{0.5mm}
+}}
+
+\vspace{2mm}
+
+% Leon Schoonraad
+\ombudsperson{1. Leon Schoonraad}%
+{Director, Capital Pride South Africa $\cdot$ Chairperson, Capital Pride Youth League}%
+{Midrand Pride (South Africa)}%
+{leon@montrive.co.za}%
+{+27 (83) 611-8922 (WhatsApp available)}%
+{Leon Schoonraad is a South African creative entrepreneur, LGBTQIA+ advocate, and Pride leader with a strong passion for community development, equality, and authentic representation. He currently serves as a Director of Capital Pride South Africa and as Chairperson of the Capital Pride Youth League, where he focuses on youth empowerment, grassroots engagement, and strengthening LGBTQIA+ visibility and inclusion. Having previously served as Marketing Director of Pretoria Pride, Leon brings broad experience in Pride event development, strategic communications, public engagement, and advocacy. In addition to his community leadership, Leon is the Founder and Owner of Montrive Media, Orviom Identity, and Valemont Productions, combining creative direction, branding, and visual storytelling to advance the global Pride movement.}
+
+% Francois Scheepers
+\ombudsperson{2. Francois Scheepers}%
+{Director, Capital Pride South Africa $\cdot$ Sales \& Marketing Professional}%
+{Midrand Pride (South Africa)}%
+{francoisscheepers5@gmail.com}%
+{+27 77 283 4295 (WhatsApp available)}%
+{Francois Scheepers is a dedicated South African LGBTQ+ advocate, community leader, and accomplished sales and marketing professional recognized for his commitment to advancing equality, visibility, and meaningful community engagement. As a Director of Capital Pride South Africa, Francois plays an integral role in championing inclusion, social progress, and community cohesion. His involvement extends through extensive leadership in Pretoria Pride, including serving as Coordinator and Director of Mr and Miss Gay Pride Pretoria. Combining his corporate management expertise as Sales \& Marketing Manager at Marriott Loftus Park with a passion for human rights, Francois works to ensure spaces are welcoming, fair, and empowering for all identities.}
+
+\newpage
+
+% David Weideman
+\ombudsperson{3. David Gerharthardus Weideman}%
+{Director, Capital Pride South Africa $\cdot$ Community Advocate \& Organizer}%
+{Midrand Pride (South Africa)}%
+{davidweideman1986@gmail.com}%
+{+27 68 630 0711 (WhatsApp available)}%
+{David Gerharthardus Weideman is a dedicated South African LGBTQ+ leader, community advocate, and Pride organizer with a strong commitment to advancing equality, visibility, and inclusive community spaces. Having previously served as a Director of Pretoria Pride and through his work with Mr and Miss Gay Pride Pretoria, David has supported authentic representation and created platforms that inspire confidence, unity, and excellence. Currently serving as a Director of Capital Pride South Africa, David continues to champion meaningful progress, strengthen community connections, and contribute to building a future where equality, dignity, and acceptance remain at the forefront.}
+
+% Asia Cione
+\ombudsperson{4. Asia Cione}%
+{Transfeminist Activist $\cdot$ Human Rights \& Social Justice Advocate}%
+{International / Italy}%
+{asiacione94@gmail.com}%
+{Available via Email / Conference App}%
+{Asia Cione is an Italian transfeminist activist and researcher with a background in economics and a deep passion for social justice, community building, and ethical technology. Asia specializes in trans rights, grassroots community resilience, and combating human trafficking. Bringing an intersectional, compassionate, and forward-looking lens to the conference ombuds team, Asia is dedicated to ensuring that marginalized voices, gender-diverse participants, and international delegates have a safe, confidential space to seek support, access guidance, and achieve resolution.}
+
+\vspace{5mm}
+
+% Access / Reporting Info Box
+\noindent
+\colorbox{lightgray}{%
+\parbox{\dimexpr\linewidth-2\fboxsep\relax}{%
+    \vspace{2mm}
+    \noindent{\normalsize\bfseries\color{primary} How to Access and Contact an Ombudsperson}\\[1.5mm]
+    \small
+    \begin{enumerate}
+        \item \textbf{Direct In-Person or Digital Contact:} Approach any Ombudsperson at the venue during conference sessions, or contact them directly via the email addresses and phone/WhatsApp numbers listed above.
+        \item \textbf{Online Ombuds Submission Form:} Submit issues, feedback, or concerns confidentially via the official conference form: \textbf{\textit{Form to share questions, comments, issues \& feedback with Ombudspersons}}, accessible on Sched and in the \textit{Important Links \& Information} conference packet.
+        \item \textbf{Governance Escalation:} In accordance with Standing Rule SR 04.04 Section 5, the Governance Committee Co-Chairs act as operational support for the Ombudspersons. Any matters requiring systemic escalation are referred to \href{mailto:governance.chairs@interpride.org}{\texttt{governance.chairs@interpride.org}}.
+    \end{enumerate}
+    \vspace{1mm}
+}}
+
+\vfill
+
+\begin{center}
+    \footnotesize\color{muted}
+    \textbf{InterPride General Meeting \& World Conference 2026} $\cdot$ Phuket, Thailand\\
+    Issued by the Governance Committee $\cdot$ \href{mailto:governance.chairs@interpride.org}{\texttt{governance.chairs@interpride.org}} $\cdot$ \href{https://www.interpride.org}{\texttt{www.interpride.org}}
+\end{center}
+
+\end{document}
