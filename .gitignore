@@ -16,7 +16,6 @@ emails_audit.jsonl
 .email_tasks_state.json
 analyze_emails.py
 fetch_email_gov_docs.py
-fetch_emails.py
 full_audit.py
 audit_summary.json
 
